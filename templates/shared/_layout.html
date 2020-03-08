@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>{% block title %}Luke Willey{% endblock %}</title>
+    <title>{% block title %}{% endblock %}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -59,6 +59,7 @@
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="/blog">Blog</a>
                 </li>
+                {% block extra_header %}{% endblock %}
             </ul>
         </div>
     </div>
