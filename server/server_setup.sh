@@ -51,6 +51,7 @@ pip install --upgrade uwsgi
 # clone the repo:
 cd /apps
 git clone https://github.com/hansolo580/lukewilley
+#9b7f096bc14a9762d104cb3485a5720043858e61
 
 # Setup the web app:
 cd cd /apps/lukewilley
