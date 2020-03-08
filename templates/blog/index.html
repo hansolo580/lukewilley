@@ -1,0 +1,89 @@
+{% extends "shared/_layout.html" %}
+{% block main_content %}
+
+
+    <!-- About Section -->
+    <section id="about" class="about-section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-white mb-4">Topics</h2>
+                    <p class="text-white-50 mb-4">Just pick a topic that interests you for relevant posts. If you're more of
+                        a "dealer's choice" type, click <a href="#">here</a> for a random page, or just scroll down for
+                        the most recent post.</p>
+                    <ul class="text-white-50 mb-4 mt-8 mr-4">
+                        <li class="list-inline"><a href="#">Computers</a></li>
+                        <li class="list-inline"><a href="#">Faith</a></li>
+                        <li class="list-inline"><a href="#">History</a></li>
+                        <li class="list-inline"><a href="#">Personal</a></li>
+                        <li class="list-inline"><a href="#">Science</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects-section bg-light">
+        <div class="container">
+
+            <!-- Featured Project Row -->
+            <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+                <div class="col-xl-8 col-lg-7">
+                    <img class="img-fluid mb-3 mb-lg-0" src="/static/img/mp.PNG" alt="">
+                </div>
+                <div class="col-xl-4 col-lg-5">
+                    <div class="featured-text text-center text-lg-left">
+                        <h4>Marco Polo Jobs</h4>
+                        <p class="text-black-50 mb-0">In 2018, I launched <a href="www.marcopolojobs.com">Marco Polo
+                            Jobs</a>, a
+                            recruiting platform custom-built for retail staffing. It serves a niche market that is
+                            priced out by
+                            the Big I and its well-known pals.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project One Row -->
+            <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="/static/img/demo-image-01.jpg" alt="">
+                </div>
+                <div class="col-lg-6">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-left">
+                                <h4 class="text-white">This Website</h4>
+                                <p class="mb-0 text-white-50">Screenshot hopefully not necessary.</p>
+                                <hr class="d-none d-lg-block mb-0 ml-0">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project Two Row -->
+            <div class="row justify-content-center no-gutters">
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="/static/img/demo-image-02.jpg" alt="">
+                </div>
+                <div class="col-lg-6 order-lg-first">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-right">
+                                <h4 class="text-white">Various Utilities</h4>
+                                <p class="mb-0 text-white-50">I've built several small toolkits for various tasks -
+                                    check out the
+                                    <a href="#">Utilities</a> page for a list!</p>
+                                <hr class="d-none d-lg-block mb-0 mr-0">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+{% endblock %}
