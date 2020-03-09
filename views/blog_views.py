@@ -114,6 +114,7 @@ def edit(slug):
     return render_template('blog/edit.html', entry=entry)
 
 # I think it's visiting the login and login result out of order
+# https://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
 
 
 @blueprint.route('/login/', methods=['GET', 'POST'])
