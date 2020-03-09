@@ -114,6 +114,8 @@ def edit(slug):
     return render_template('blog/edit.html', entry=entry)
 
 # I think it's visiting the login and login result out of order
+
+
 @blueprint.route('/login/', methods=['GET', 'POST'])
 def display_login():
     next_url = request.args.get('next') or request.form.get('next')
