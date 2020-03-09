@@ -1,5 +1,6 @@
 import flask
 
+from app import login
 from infrastructure import blog
 from infrastructure.blog import Entry
 from infrastructure.view_modifiers import response
@@ -11,7 +12,7 @@ import re
 import urllib
 
 from flask import (Flask, abort, flash, Markup, redirect, render_template,
-                   request, Response, session, url_for)
+                   request, Response, session, url_for, app)
 from markdown import markdown
 from markdown.extensions.codehilite import CodeHiliteExtension
 from markdown.extensions.extra import ExtraExtension
@@ -112,20 +113,17 @@ def edit(slug):
 
     return render_template('blog/edit.html', entry=entry)
 
-
+# I think it's visiting the login and login result out of order
 @blueprint.route('/login/', methods=['GET', 'POST'])
-def login():
+def display_login():
     next_url = request.args.get('next') or request.form.get('next')
-    if request.method == 'POST' and request.form.get('password'):
-        password = request.form.get('password')
-        if password == blog.app.config['ADMIN_PASSWORD']:
-            session['logged_in'] = True
-            session.permanent = True  # Use cookie to store session.
-            flash('You are now logged in.', 'success')
-            return redirect(next_url or url_for('index'))
-        else:
-            flash('Incorrect password.', 'danger')
-    return render_template('blog/login.html', next_url=next_url)
+    loginstate = False
+    login()
+    if loginstate == True:
+        return redirect(next_url or url_for('index'))
+    else:
+        return render_template('blog/login.html', next_url=next_url)
+
 
 
 @blueprint.route('/logout/', methods=['GET', 'POST'])

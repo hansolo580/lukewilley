@@ -44,6 +44,22 @@ def register_blueprints():
     app.register_blueprint(blog_views.blueprint)
 
 
+def login():
+    if request.method == 'POST' and request.form.get('password'):
+        password = request.form.get('password')
+        if password == app.config['ADMIN_PASSWORD']:
+            session['logged_in'] = True
+            session.permanent = True  # Use cookie to store session.
+            flash('You are now logged in.', 'success')
+            loginstate = True
+            return loginstate
+        else:
+            flash('Incorrect password.', 'danger')
+            loginstate = False
+            return loginstate
+
+
+
 @app.template_filter('clean_querystring')
 def clean_querystring(request_args, *keys_to_remove, **new_values):
     querystring = dict((key, value) for key, value in request_args.items())
