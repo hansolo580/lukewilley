@@ -10,6 +10,7 @@ blueprint = flask.Blueprint('home', __name__, template_folder='templates')
 def index():
     return {}
 
+
 @blueprint.route('/utilities')
 @response(template_file='home/utilities.html')
 def utilities():

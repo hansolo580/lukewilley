@@ -1,4 +1,5 @@
 {% extends "shared/_layout.html" %}
+{% block title %}Blog - Luke Willey{% endblock %}
 {% block main_content %}
 
 
@@ -27,23 +28,6 @@
     <section id="projects" class="projects-section bg-light">
         <div class="container">
 
-            <!-- Featured Project Row -->
-            <div class="row align-items-center no-gutters mb-4 mb-lg-5">
-                <div class="col-xl-8 col-lg-7">
-                    <img class="img-fluid mb-3 mb-lg-0" src="/static/img/mp.PNG" alt="">
-                </div>
-                <div class="col-xl-4 col-lg-5">
-                    <div class="featured-text text-center text-lg-left">
-                        <h4>Marco Polo Jobs</h4>
-                        <p class="text-black-50 mb-0">In 2018, I launched <a href="www.marcopolojobs.com">Marco Polo
-                            Jobs</a>, a
-                            recruiting platform custom-built for retail staffing. It serves a niche market that is
-                            priced out by
-                            the Big I and its well-known pals.</p>
-                    </div>
-                </div>
-            </div>
-
             <!-- Project One Row -->
             <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
                 <div class="col-lg-6">
@@ -53,8 +37,11 @@
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
                             <div class="project-text w-100 my-auto text-center text-lg-left">
-                                <h4 class="text-white">This Website</h4>
-                                <p class="mb-0 text-white-50">Screenshot hopefully not necessary.</p>
+                                <h4 class="text-white"><a href="{% if entry.published %}{{ url_for('detail',
+                                slug=entry.slug) }}{% else %}{{ url_for('edit', slug=entry.slug) }}{% endif %}">
+                                    {{ entry.title }}</a>
+                                </h4>
+                                <p class="mb-0 text-white-50">Created {{ entry.timestamp.strftime('%m/%d/%Y at %G:%I%p') }}</p>
                                 <hr class="d-none d-lg-block mb-0 ml-0">
                             </div>
                         </div>
@@ -84,6 +71,6 @@
 
         </div>
     </section>
-
+    {% include "includes/pagination.html" %}
 
 {% endblock %}

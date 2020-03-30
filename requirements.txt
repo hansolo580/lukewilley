@@ -1,16 +1,17 @@
-flask
+beautifulsoup4
+Click
+Flask
 Flask-FlatPages
 Frozen-Flask
+gunicorn
+itsdangerous
 Jinja2
 Markdown
 MarkupSafe
-PyYAML
-Pygments
-Werkzeug
-itsdangerous
-gunicorn
-peewee
 micawber
-beautifulsoup4
-
-# TODO: Blog install using https://github.com/coleifer/peewee/blob/master/examples/blog/app.py
+peewee
+Pygments
+PyYAML
+setuptools
+soupsieve
+Werkzeug
