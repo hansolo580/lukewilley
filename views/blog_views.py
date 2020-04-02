@@ -1,26 +1,15 @@
 import flask
 
 from app import login
-from infrastructure import blog
 from infrastructure.blog import Entry
 from infrastructure.view_modifiers import response
 
-import datetime
 import functools
-import os
-import re
-import urllib
 
 from flask import (Flask, abort, flash, Markup, redirect, render_template,
                    request, Response, session, url_for, app)
-from markdown import markdown
-from markdown.extensions.codehilite import CodeHiliteExtension
-from markdown.extensions.extra import ExtraExtension
-from micawber import bootstrap_basic, parse_html
-from micawber.cache import Cache as OEmbedCache
-from peewee import *
+
 from playhouse.flask_utils import FlaskDB, get_object_or_404, object_list
-from playhouse.sqlite_ext import *
 
 blueprint = flask.Blueprint('blog', __name__, template_folder='templates')
 
@@ -122,9 +111,12 @@ def display_login():
     next_url = request.args.get('next') or request.form.get('next')
     loginstate = False
     login()
+    print(loginstate)
     if loginstate == True:
+        print('login status: ', loginstate)
         return redirect(next_url or url_for('index'))
     else:
+        print('login status: ', loginstate)
         return render_template('blog/login.html', next_url=next_url)
 
 

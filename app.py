@@ -1,33 +1,12 @@
-from flask import Flask
+from config import ADMIN_PASSWORD
 from infrastructure.blog import blogmain
-
-import datetime
-import functools
-import os
-import re
 import urllib
-
 from flask import (Flask, abort, flash, Markup, redirect, render_template,
                    request, Response, session, url_for)
-from markdown import markdown
-from markdown.extensions.codehilite import CodeHiliteExtension
-from markdown.extensions.extra import ExtraExtension
-from micawber import bootstrap_basic, parse_html
-from micawber.cache import Cache as OEmbedCache
-from peewee import *
-from playhouse.flask_utils import FlaskDB, get_object_or_404, object_list
-from playhouse.sqlite_ext import *
-# TODO: Move app.config to separate file
+
 
 app = Flask(__name__)
-app.config.from_object('config')
-
-ADMIN_PASSWORD = 'blogPOSTSdonotread533!'
-APP_DIR = os.path.dirname(os.path.realpath(__file__))
-DATABASE = 'sqliteext:///%s' % os.path.join(APP_DIR, 'blogstorage.db')
-DEBUG = True
-SECRET_KEY = '42804280'  # Used by Flask to encrypt session cookie.
-SITE_WIDTH = 800
+app.config.from_pyfile('config.py')
 
 
 def main():
@@ -51,6 +30,7 @@ def login():
             session.permanent = True  # Use cookie to store session.
             flash('You are now logged in.', 'success')
             loginstate = True
+            print('password match and returning loginstate ', loginstate)
             return loginstate
         else:
             flash('Incorrect password.', 'danger')

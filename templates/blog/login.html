@@ -10,7 +10,7 @@
           </div>
         </div>
     </header>
-    <form action="{{ url_for('blog.display_login', next=next_url) }}" class="form-horizontal" method="post">
+    <form action="{{ url_for('blog.display_login', next='blog\index') }}" class="form-horizontal" method="post">
         <div class="form-group">
             <label for="password" class="col-sm-2 control-label">Password</label>
             <div class="col-sm-10">
