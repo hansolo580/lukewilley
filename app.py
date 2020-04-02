@@ -17,7 +17,7 @@ from micawber.cache import Cache as OEmbedCache
 from peewee import *
 from playhouse.flask_utils import FlaskDB, get_object_or_404, object_list
 from playhouse.sqlite_ext import *
-
+# TODO: Move app.config to separate file
 
 app = Flask(__name__)
 app.config.from_object(__name__)
@@ -26,9 +26,8 @@ ADMIN_PASSWORD = 'blogPOSTSdonotread533!'
 APP_DIR = os.path.dirname(os.path.realpath(__file__))
 DATABASE = 'sqliteext:///%s' % os.path.join(APP_DIR, 'blogstorage.db')
 DEBUG = True
-SECRET_KEY = 'testtesttest'  # Used by Flask to encrypt session cookie.
+SECRET_KEY = '42804280'  # Used by Flask to encrypt session cookie.
 SITE_WIDTH = 800
-
 
 
 def main():
@@ -47,7 +46,7 @@ def register_blueprints():
 def login():
     if request.method == 'POST' and request.form.get('password'):
         password = request.form.get('password')
-        if password == app.config['ADMIN_PASSWORD']:
+        if password == ADMIN_PASSWORD:
             session['logged_in'] = True
             session.permanent = True  # Use cookie to store session.
             flash('You are now logged in.', 'success')
