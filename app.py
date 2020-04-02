@@ -20,7 +20,7 @@ from playhouse.sqlite_ext import *
 # TODO: Move app.config to separate file
 
 app = Flask(__name__)
-app.config.from_object(__name__)
+app.config.from_object('config')
 
 ADMIN_PASSWORD = 'blogPOSTSdonotread533!'
 APP_DIR = os.path.dirname(os.path.realpath(__file__))

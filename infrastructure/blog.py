@@ -16,15 +16,8 @@ from playhouse.flask_utils import FlaskDB, get_object_or_404, object_list
 from playhouse.sqlite_ext import *
 
 
-ADMIN_PASSWORD = 'blogPOSTSdonotread533!'
-APP_DIR = os.path.dirname(os.path.realpath(__file__))
-DATABASE = 'sqliteext:///%s' % os.path.join(APP_DIR, 'blogstorage.db')
-DEBUG = True
-SECRET_KEY = '42804280'  # Used by Flask to encrypt session cookie.
-SITE_WIDTH = 800
-
 app = Flask(__name__)
-app.config.from_object(__name__)
+app.config.from_object('config')
 
 flask_db = FlaskDB(app)
 database = flask_db.database
