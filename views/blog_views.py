@@ -110,7 +110,7 @@ def edit(slug):
 def display_login():
     next_url = request.args.get('next') or request.form.get('next')
     loginstate = False
-    login()
+    loginstate = login()
     print(loginstate)
     if loginstate == True:
         print('login status: ', loginstate)
