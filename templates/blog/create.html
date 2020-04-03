@@ -3,7 +3,7 @@
 {% block title %}Create post{% endblock %}
 
 {% block main_content %}
-<form action="{% block form_action %}{{ url_for('create') }}{% endblock %}" class="form-horizontal" method="post">
+<form action="{% block form_action %}{{ url_for('blog.create') }}{% endblock %}" class="form-horizontal" method="post">
     <div class="form-group">
       <label for="title" class="col-sm-2 control-label">Title</label>
       <div class="col-sm-10">
