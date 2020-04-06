@@ -1,5 +1,5 @@
 import flask
-
+from config import DATABASE
 from app import login
 from infrastructure.blog import Entry
 from infrastructure.view_modifiers import response
@@ -22,6 +22,7 @@ def index():
     else:
         query = Entry.public().order_by(Entry.timestamp.desc())
     return object_list('blog/index.html', query, search=search_query)
+# getting 404 after editing DB path in config
 
 
 @blueprint.route('/blog/post')
