@@ -21,8 +21,8 @@ def index():
         query = Entry.search(search_query)
     else:
         query = Entry.public().order_by(Entry.timestamp.desc())
+        print(query)
     return object_list('blog/index.html', query, search=search_query)
-# getting 404 after editing DB path in config
 
 
 @blueprint.route('/blog/post')

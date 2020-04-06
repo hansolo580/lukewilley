@@ -10,7 +10,7 @@
                 <div class="col-lg-8 mx-auto">
                     <h2 class="text-white mb-4">Topics</h2>
                     <p class="text-white-50 mb-4">Just pick a topic that interests you for relevant posts. If you're more of
-                        a "dealer's choice" type, click <a href="#">here</a> for a random page, or just scroll down for
+                        a "dealer's choice" type, click <a href="#">here</a> for a random post. Alternatively, just scroll down for
                         the most recent post. This section is a work in progress.</p>
                     <ul class="text-white-50 mb-4 mt-8 mr-4">
                         <li class="list-inline"><a href="#">Computers</a></li>
@@ -37,12 +37,14 @@
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
                             <div class="project-text w-100 my-auto text-center text-lg-left">
-                                <h4 class="text-white"><a href="{% if entry.published %}{{ url_for('detail',
+                            {% for entry in object_list %}
+                                <h4 class="text-white"><a href="{% if entry.published %}{{ url_for('blog.detail',
                                 slug=entry.slug) }}{% else %}{{ url_for('edit', slug=entry.slug) }}{% endif %}">
                                     {{ entry.title }}</a>
                                 </h4>
                                 <p class="mb-0 text-white-50">Created {{ entry.timestamp.strftime('%m/%d/%Y at %G:%I%p') }}</p>
                                 <hr class="d-none d-lg-block mb-0 ml-0">
+                            {% endfor %}
                             </div>
                         </div>
                     </div>
@@ -71,6 +73,5 @@
 
         </div>
     </section>
-    {% include "includes/pagination.html" %}
 
 {% endblock %}
