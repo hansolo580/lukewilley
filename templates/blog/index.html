@@ -1,5 +1,10 @@
 {% extends "shared/_layout.html" %}
 {% block title %}Blog - Luke Willey{% endblock %}
+{% block extra_header %}
+    {% if session.logged_in %}
+        <li><a class="nav-link js-scroll-trigger" href="{{ url_for('blog.create') }}">New entry</a></li>
+    {% endif %}
+{% endblock %}
 {% block main_content %}
 
 
@@ -10,7 +15,7 @@
                 <div class="col-lg-8 mx-auto">
                     <h2 class="text-white mb-4">Topics</h2>
                     <p class="text-white-50 mb-4">Just pick a topic that interests you for relevant posts. If you're more of
-                        a "dealer's choice" type, click <a href="#">here</a> for a random post. Alternatively, just scroll down for
+                        a "dealer's choice" type, click <a href="#">here</a> for a random page, or just scroll down for
                         the most recent post. This section is a work in progress.</p>
                     <ul class="text-white-50 mb-4 mt-8 mr-4">
                         <li class="list-inline"><a href="#">Computers</a></li>
@@ -73,5 +78,6 @@
 
         </div>
     </section>
+    {% include "blog/pagination.html" %}
 
 {% endblock %}

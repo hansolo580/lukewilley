@@ -23,6 +23,7 @@ def index():
         query = Entry.public().order_by(Entry.timestamp.desc())
         print(query)
     return object_list('blog/index.html', query, search=search_query)
+# getting 404 after editing DB path in config
 
 
 @blueprint.route('/blog/post')
@@ -79,7 +80,7 @@ def detail(slug):
     else:
         query = Entry.public()
     entry = get_object_or_404(query, Entry.slug == slug)
-    return render_template('blog/detail.html', entry=entry)
+    return render_template('blog/post.html', entry=entry)
 
 
 @blueprint.route('/<slug>/edit/', methods=['GET', 'POST'])
@@ -95,9 +96,9 @@ def edit(slug):
 
             flash('Entry saved successfully.', 'success')
             if entry.published:
-                return redirect(url_for('detail', slug=entry.slug))
+                return redirect(url_for('blog.detail', slug=entry.slug))
             else:
-                return redirect(url_for('edit', slug=entry.slug))
+                return redirect(url_for('blog.edit', slug=entry.slug))
         else:
             flash('Title and Content are required.', 'danger')
 
@@ -126,7 +127,7 @@ def display_login():
 def logout():
     if request.method == 'POST':
         session.clear()
-        return redirect(url_for('blog/login'))
+        return redirect(url_for('home.index'))
     return render_template('blog/logout.html')
 
 
