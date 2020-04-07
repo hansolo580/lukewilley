@@ -23,6 +23,8 @@ def index():
         query = Entry.public().order_by(Entry.timestamp.desc())
         print(query)
     return object_list('blog/index.html', query, search=search_query)
+
+
 # getting 404 after editing DB path in config
 
 
@@ -44,6 +46,7 @@ def login_required(fn):
         if session.get('logged_in'):
             return fn(*args, **kwargs)
         return redirect(url_for('blog/login', next=request.path))
+
     return inner
 
 
@@ -105,6 +108,7 @@ def edit(slug):
 
     return render_template('blog/edit.html', entry=entry)
 
+
 # I think it's visiting the login and login result out of order
 # https://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
 
@@ -123,13 +127,11 @@ def display_login():
         return render_template('blog/login.html', next_url=next_url)
 
 
-
 @blueprint.route('/logout/', methods=['GET', 'POST'])
 def logout():
     if request.method == 'POST':
         session.clear()
         return redirect(url_for('home.index'))
     return render_template('blog/logout.html')
-
 
 # TODO: This: https://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
