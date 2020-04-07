@@ -65,9 +65,10 @@ def create():
                 published=request.form.get('published') or False)
             flash('Entry created successfully.', 'success')
             if entry.published:
-                return redirect(url_for('detail', slug=entry.slug))
+                print(entry.slug)
+                return redirect(url_for('blog.detail', slug=entry.slug))
             else:
-                return redirect(url_for('edit', slug=entry.slug))
+                return redirect(url_for('blog.edit', slug=entry.slug))
         else:
             flash('Title and Content are required.', 'danger')
     return render_template('blog/create.html')

@@ -42,14 +42,15 @@ About Section
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
                             <div class="project-text w-100 my-auto text-center text-lg-left">
-                            {% for entry in object_list %}
-                                <h4 class="text-white"><a href="{% if entry.published %}{{ url_for('blog.detail',
-                                slug=entry.slug) }}{% else %}{{ url_for('edit', slug=entry.slug) }}{% endif %}">
-                                    {{ entry.title }}</a>
-                                </h4>
-                                <p class="mb-0 text-white-50">Created {{ entry.timestamp.strftime('%m/%d/%Y at %G:%I%p') }}</p>
+                                <h4 class="text-white">Recent Posts</h4>
+                                {% for entry in object_list[:3] %}
+                                    <h5 class="text-white"><a href="{% if entry.published %}{{ url_for('blog.detail',
+                                    slug=entry.slug) }}{% else %}{{ url_for('edit', slug=entry.slug) }}{% endif %}">
+                                        {{ entry.title }}</a>
+                                    </h5>
+                                    <p class="mb-0 text-white-50">Posted {{ entry.timestamp.strftime('%m/%d/%Y') }}</p>
+                                {% endfor %}
                                 <hr class="d-none d-lg-block mb-0 ml-0">
-                            {% endfor %}
                             </div>
                         </div>
                     </div>
