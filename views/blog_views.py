@@ -25,9 +25,6 @@ def index():
     return object_list('blog/index.html', query, search=search_query)
 
 
-# getting 404 after editing DB path in config
-
-
 @blueprint.route('/blog/post')
 @response(template_file='blog/post.html')
 def testpost():

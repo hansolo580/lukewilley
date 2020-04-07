@@ -8,7 +8,7 @@
 {% block main_content %}
 
 
-<!-- Page Content -->
+    <!-- Page Content -->
     <section class="about-section text-center">
         <div class="container text-white">
             <div class="row">
@@ -19,25 +19,22 @@
                     <!-- Author -->
                     <p class="lead">
                         by
-                        <a href="#">Luke Willey</a>
+                        <a>Luke Willey</a>
                     </p>
                     <hr>
                     <!-- Date/Time -->
                     <p>Posted on {{ entry.timestamp.strftime('%m/%d/%Y at %G:%I%p') }}</p>
                     <hr>
-                    <!-- Preview Image -->
-                    <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
-                    <hr>
                     <!-- Post Content -->
-                    {{  entry.html_content }}
+                    {{ entry.html_content }}
                     <hr>
 
                 </div>
                 <!-- Sidebar Widgets Column -->
                 <div class="col-md-4">
                     <!-- Categories Widget -->
-                    <div class="card my-4">
-                        <h5 class="card-header">Categories</h5>
+                    <!--<div class="card my-4">
+                        <h5 class="card-header text-secondary">Categories</h5>
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-lg-6">
@@ -68,15 +65,16 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                     <!-- Side Widget -->
+                    <!--
                     <div class="card my-4">
-                        <h5 class="card-header">Side Widget</h5>
+                        <h5 class="card-header text-secondary">Links</h5>
                         <div class="card-body">
-                            You can put anything you want inside of these side widgets. They are easy to use, and feature the
-                            new Bootstrap 4 card containers!
+
                         </div>
                     </div>
+                    -->
                 </div>
             </div>
             <!-- /.row -->
