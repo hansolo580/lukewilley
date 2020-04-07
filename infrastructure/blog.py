@@ -35,6 +35,7 @@ class Entry(flask_db.Model):
     content = TextField()
     published = BooleanField(index=True)
     timestamp = DateTimeField(default=datetime.datetime.now, index=True)
+    #topic = CharField()
 
     def save(self, *args, **kwargs):
         if not self.slug:
