@@ -289,6 +289,11 @@ a:focus, a:hover {
   background-color: #64a19d !important;
 }
 
+.bg-faded {
+  background-color: #161616 !important;
+  opacity: 0.3;
+}
+
 .text-primary {
   color: #64a19d !important;
 }
