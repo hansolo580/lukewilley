@@ -19,8 +19,8 @@ def register_blueprints():
     from views import home_views, blog_views
 
     app.register_blueprint(home_views.blueprint)
-    app.register_blueprint(blog_views.blueprint)
-
+    #app.register_blueprint(blog_views.blueprint)
+# TODO: Fix blog?
 
 def login():
     if request.method == 'POST' and request.form.get('password'):

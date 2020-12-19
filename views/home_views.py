@@ -15,4 +15,8 @@ def index():
 @response(template_file='home/utilities.html')
 def utilities():
     return {}
-    
+
+@blueprint.route('/staffingdata')
+@response(template_file='home/staffingdata.html')
+def staffingdata():
+    return {}

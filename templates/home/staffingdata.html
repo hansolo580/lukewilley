@@ -1,0 +1,41 @@
+{%  extends "shared/_layout.html" %}
+{% block title %}Staffing Data Dashboard - Luke Willey{% endblock %}
+{% block main_content %}
+
+      <!-- Header -->
+  <header class="masthead">
+    <div class="container d-flex h-100 align-items-center">
+      <div class="mx-auto text-center">
+          <h2 class="text-white-50 mx-auto mt-2 mb-5">Below is a combination dashboard and analysis tool
+          for a fictional dataset for a fictional staffing company.</h2>
+        <a href="#" target="_blank" class="btn btn-primary js-scroll-trigger">Check it out</a>
+      </div>
+    </div>
+  </header>
+
+     <section id="projects" class="projects-section bg-light">
+        <div class="container">
+
+          <!-- Project One Row -->
+          <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+            <div class="col-lg-6">
+              <img class="img-fluid" src="/static/img/demo-image-01.jpg" alt="">
+            </div>
+            <div class="col-lg-6">
+              <div class="bg-black text-center h-100 project">
+                <div class="d-flex h-100">
+                  <div class="project-text w-100 my-auto text-center text-lg-left">
+                    <h4 class="text-white">Job Onesheet Generator</h4>
+                    <p class="mb-0 text-white-50">Very simple Python 3 program to generate a .docx onesheet for a job
+                        based on user input. <br><br> View source on <a href="https://github.com/hansolo580/solid-octo-guacamole"
+                                                                    target="_blank">Github</a></p>
+                    <hr class="d-none d-lg-block mb-0 ml-0">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+{% endblock %}
