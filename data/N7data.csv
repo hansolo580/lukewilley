@@ -1,0 +1,1001 @@
+employeeID,clientCompany,clientIndustry,startDate,endDate,jobTitle,payrate,markup,billrate,hours
+1776,Corwin LLC,n/a,10/18/2020,10/18/2020,Account Executive,13.03,39,18.11,1.199922832
+1253,"Breitenberg, Rogahn and Abbott",Real Estate,4/7/2020,4/7/2020,Research Associate,23.28,34,31.20,1.381912141
+1865,Jast Group,n/a,11/18/2020,11/18/2020,Dental Hygienist,10.54,29,13.60,1.452888986
+1065,Mann-Kihn,Major Banks,1/24/2020,1/24/2020,Executive Secretary,16.46,36,22.39,1.674137571
+1880,Conroy-Beer,Major Chemicals,11/25/2020,11/25/2020,Geologist II,12.29,22,14.99,2.265135914
+1826,Tromp-Jaskolski,Food Distributors,11/4/2020,11/4/2020,Social Worker,22.37,25,27.96,3.736208688
+1275,"Terry, Turcotte and Bashirian",Military/Government/Technical,4/15/2020,4/16/2020,Assistant Manager,29.04,39,40.37,7.159879564
+1315,McClure Inc,Computer peripheral equipment,4/27/2020,4/28/2020,Human Resources Manager,12.27,42,17.42,9.175426939
+1500,"McCullough, Lindgren and Wyman",n/a,7/9/2020,7/10/2020,Office Assistant IV,16.58,42,23.54,9.3774479
+1092,Reynolds-Stanton,Containers/Packaging,2/3/2020,2/4/2020,Environmental Specialist,27.6,21,33.40,10.08942889
+1809,Mueller Group,n/a,10/29/2020,10/30/2020,Research Assistant III,7.59,41,10.70,10.09224816
+1268,Zboncak-Davis,Real Estate Investment Trusts,4/13/2020,4/14/2020,Internal Auditor,19.25,22,23.49,11.02557701
+1936,Roberts-Hagenes,Real Estate Investment Trusts,12/10/2020,12/11/2020,Quality Control Specialist,11.26,24,13.96,11.20880759
+1583,"Predovic, Fritsch and Murphy",Major Pharmaceuticals,8/11/2020,8/12/2020,Senior Quality Engineer,9.41,43,13.46,11.28686056
+1362,Mann-Hahn,Major Chemicals,5/14/2020,5/16/2020,Tax Accountant,28.08,37,38.47,14.09704953
+1813,Hodkiewicz-Yost,Electric Utilities: Central,10/30/2020,11/1/2020,Pharmacist,24.71,43,35.34,14.77875407
+1519,"Gutkowski, Muller and Schamberger",Auto Parts:O.E.M.,7/19/2020,7/21/2020,Product Engineer,8.11,34,10.87,14.99646297
+1732,Bauch-Gerlach,Coal Mining,9/30/2020,10/2/2020,VP Accounting,16.9,36,22.98,15.13457689
+1665,Pacocha Inc,Specialty Chemicals,9/9/2020,9/11/2020,Dental Hygienist,13.89,30,18.06,16.84689844
+1733,"McGlynn, Hettinger and Breitenberg",n/a,9/30/2020,10/2/2020,Automation Specialist III,10.21,32,13.48,17.0461793
+1517,Ankunding and Sons,Water Supply,7/18/2020,7/21/2020,Recruiting Manager,9.35,40,13.09,18.9365357
+1028,Olson-Kovacek,Major Banks,1/9/2020,1/12/2020,Social Worker,16.2,24,20.09,19.0521627
+1379,Kling Inc,Natural Gas Distribution,5/21/2020,5/24/2020,Legal Assistant,8.7,30,11.31,19.5139293
+1995,"Welch, Homenick and Rau",Power Generation,12/28/2020,12/31/2020,Occupational Therapist,11.28,23,13.87,19.98596082
+1902,Ortiz-Maggio,n/a,11/30/2020,12/3/2020,Human Resources Assistant IV,29.36,22,35.82,20.4375327
+1773,Schmidt Group,Finance Companies,10/16/2020,10/19/2020,Human Resources Assistant IV,11.51,34,15.42,20.58478309
+1431,"Kirlin, Schroeder and Purdy",n/a,6/14/2020,6/17/2020,Electrical Engineer,29.96,34,40.15,20.79484207
+1698,Veum Inc,Mining & Quarrying of Nonmetallic Minerals (No Fuels),9/21/2020,9/24/2020,Recruiter,7.71,43,11.03,20.94363703
+1599,Ritchie-Stokes,Major Pharmaceuticals,8/17/2020,8/20/2020,Administrative Assistant IV,12.81,39,17.81,20.98131106
+1772,"Rolfson, Bashirian and Lang",Biotechnology: Commercial Physical & Biological Resarch,10/16/2020,10/20/2020,Mechanical Systems Engineer,18.91,29,24.39,24.82072031
+1581,Schmidt-Kunze,Telecommunications Equipment,8/11/2020,8/15/2020,General Manager,18.2,21,22.02,25.66544852
+1738,Friesen Inc,n/a,10/2/2020,10/6/2020,Technical Writer,17.67,25,22.09,26.16259295
+1012,Kilback LLC,Telecommunications Equipment,1/4/2020,1/8/2020,VP Quality Control,22.52,44,32.43,26.24794354
+1862,"Renner, Goldner and Hahn",Restaurants,11/18/2020,11/22/2020,Nuclear Power Engineer,16.68,33,22.18,26.35700037
+1605,"Skiles, Erdman and Cronin",Electric Utilities: Central,8/19/2020,8/23/2020,Staff Accountant I,26.67,45,38.67,27.6484612
+1116,"Schowalter, Donnelly and Greenholt",Major Pharmaceuticals,2/12/2020,2/16/2020,Operator,26.62,29,34.34,28.13095184
+1618,Schamberger and Sons,n/a,8/24/2020,8/28/2020,Project Manager,20.83,39,28.95,28.85032898
+1633,Tillman-Hand,Oil Refining/Marketing,8/29/2020,9/2/2020,Account Executive,14.45,44,20.81,28.85115299
+1614,Haley-Strosin,Metal Fabrications,8/22/2020,8/26/2020,Nuclear Power Engineer,21.05,27,26.73,29.45668806
+1258,Mosciski-Yundt,Banks,4/9/2020,4/13/2020,Registered Nurse,14.09,37,19.30,29.62346581
+1284,Hilll Inc,Precious Metals,4/18/2020,4/22/2020,Senior Editor,11.42,44,16.44,29.85500842
+1580,Barton and Sons,Diversified Commercial Services,8/11/2020,8/16/2020,Senior Quality Engineer,23.74,20,28.49,30.78141704
+1547,Gibson LLC,Real Estate Investment Trusts,7/26/2020,7/31/2020,Occupational Therapist,26.44,34,35.43,30.90378807
+1273,Roob Group,n/a,4/14/2020,4/19/2020,Programmer Analyst II,9.84,43,14.07,31.32792671
+1582,Ryan Group,Major Pharmaceuticals,8/11/2020,8/16/2020,Media Manager II,9.97,39,13.86,31.5025558
+1790,Jenkins and Sons,Savings Institutions,10/22/2020,10/27/2020,Programmer III,15.05,39,20.92,31.57599021
+1385,Baumbach-Gottlieb,Air Freight/Delivery Services,5/22/2020,5/27/2020,Librarian,16.03,39,22.28,32.35918485
+1893,O'Keefe LLC,Biotechnology: Biological Products (No Diagnostic Substances),11/27/2020,12/2/2020,Human Resources Manager,8.46,28,10.83,33.71585691
+1660,"Nicolas, Ryan and Wiza",Auto Manufacturing,9/7/2020,9/12/2020,Software Consultant,10.76,41,15.17,34.68821751
+1752,Schmidt Inc,Advertising,10/9/2020,10/14/2020,Paralegal,8.97,28,11.48,35.40739961
+1673,Nitzsche-Rodriguez,Real Estate Investment Trusts,9/11/2020,9/17/2020,Database Administrator I,20.93,28,26.79,36.70906667
+1016,"Hirthe, Adams and Ruecker",Oil & Gas Production,1/6/2020,1/12/2020,Database Administrator I,28.46,27,36.14,36.73364583
+1053,Dicki Inc,Electric Utilities: Central,1/17/2020,1/23/2020,Programmer I,16.27,41,22.94,37.17031591
+1841,Nikolaus-Beatty,Metal Fabrications,11/11/2020,11/17/2020,Developer I,9.52,22,11.61,37.43131226
+1365,"White, Maggio and Hettinger",Packaged Foods,5/15/2020,5/21/2020,Programmer II,26.55,37,36.37,37.99453083
+1195,Murray Group,Telecommunications Equipment,3/16/2020,3/22/2020,Programmer II,16.76,34,22.46,38.30209871
+1171,Mosciski-Watsica,Property-Casualty Insurers,3/7/2020,3/13/2020,Environmental Specialist,21.58,28,27.62,40.28110049
+1575,Paucek Inc,Electric Utilities: Central,8/9/2020,8/15/2020,Compensation Analyst,10.58,40,14.81,40.68430422
+1938,"Pfannerstill, O'Keefe and Bashirian",n/a,12/12/2020,12/18/2020,Analyst Programmer,25.25,41,35.60,40.99900498
+1103,O'Conner LLC,Banks,2/8/2020,2/14/2020,Cost Accountant,27.96,30,36.35,41.1581737
+1136,"Fisher, Kirlin and Dooley",Food Chains,2/21/2020,2/27/2020,Speech Pathologist,28.7,45,41.62,41.70707691
+1810,Wolf Group,Diversified Commercial Services,10/29/2020,11/5/2020,Account Executive,27.02,29,34.86,42.02108121
+1822,Homenick Inc,EDP Services,11/2/2020,11/9/2020,Developer I,13,45,18.85,42.77789217
+1937,Kirlin-Hane,Oil Refining/Marketing,12/11/2020,12/18/2020,Senior Developer,22.76,30,29.59,42.93981394
+1992,Beatty and Sons,Major Pharmaceuticals,12/28/2020,1/4/2021,Mechanical Systems Engineer,19.38,30,25.19,44.12744043
+1914,Boehm-Parisian,EDP Services,12/5/2020,12/12/2020,Tax Accountant,22.66,34,30.36,44.68186663
+1373,"Rowe, Johnson and Dickinson",Integrated oil Companies,5/17/2020,5/24/2020,Senior Cost Accountant,18.27,32,24.12,44.71421616
+1590,"Farrell, Hand and Jacobson",Semiconductors,8/14/2020,8/21/2020,Nurse,16.2,35,21.87,45.96768387
+1796,Lockman Group,Auto Parts:O.E.M.,10/24/2020,10/31/2020,Senior Cost Accountant,20.09,43,28.73,47.05609988
+1498,Nicolas-Green,Finance: Consumer Services,7/8/2020,7/15/2020,VP Product Management,12.11,34,16.23,47.89484808
+1367,"Mante, Conn and Funk",Major Banks,5/15/2020,5/22/2020,Legal Assistant,26.87,22,32.78,47.96560432
+1969,Jaskolski Inc,Industrial Specialties,12/21/2020,12/29/2020,Developer I,13.14,22,16.03,48.898481
+1873,Lueilwitz-Olson,n/a,11/21/2020,11/29/2020,Statistician III,11.53,41,16.26,49.26267429
+1883,McGlynn LLC,Other Consumer Services,11/25/2020,12/3/2020,Nurse Practicioner,12.38,25,15.48,49.29193454
+1884,Ruecker-Stamm,n/a,11/25/2020,12/3/2020,Assistant Media Planner,7.59,30,9.87,50.8636734
+1074,"Renner, Bahringer and Olson",Oil & Gas Production,1/26/2020,2/3/2020,Assistant Media Planner,23.5,22,28.67,50.86820083
+1704,Kuvalis LLC,n/a,9/22/2020,9/30/2020,Internal Auditor,28.44,42,40.38,52.3100207
+1615,"Koepp, Bartell and Maggio",Major Pharmaceuticals,8/23/2020,8/31/2020,Financial Analyst,26.57,29,34.28,53.80326992
+1361,Ward LLC,n/a,5/14/2020,5/23/2020,Accounting Assistant II,10.81,42,15.35,54.07586879
+1445,Huel-Runolfsson,Business Services,6/19/2020,6/28/2020,Administrative Assistant III,12.46,42,17.69,54.987638
+1585,"Nienow, Morar and Reichel",Business Services,8/12/2020,8/21/2020,Account Executive,24.67,39,34.29,55.08855379
+1968,"Cronin, Trantow and Auer",n/a,12/21/2020,12/30/2020,Account Executive,23.89,36,32.49,55.46704738
+1303,Wintheiser-Schneider,Medical/Dental Instruments,4/23/2020,5/2/2020,Dental Hygienist,10.93,24,13.55,55.76465462
+1705,Ondricka Inc,Building Materials,9/22/2020,10/1/2020,Mechanical Systems Engineer,18.58,33,24.71,55.90146401
+1782,Rosenbaum-Zulauf,n/a,10/20/2020,10/29/2020,Director of Sales,12.14,41,17.12,56.96808202
+1758,Erdman and Sons,Major Pharmaceuticals,10/12/2020,10/21/2020,Safety Technician III,12.84,44,18.49,57.47908736
+1769,"O'Connell, Gusikowski and Hauck",EDP Services,10/15/2020,10/24/2020,Environmental Tech,29.69,23,36.52,57.89265645
+1318,"Jones, Kohler and Murazik",Mining & Quarrying of Nonmetallic Minerals (No Fuels),4/28/2020,5/7/2020,Quality Control Specialist,7.89,22,9.63,59.15957816
+1335,Heaney-Gleason,Apparel,5/5/2020,5/14/2020,Civil Engineer,11.76,29,15.17,59.3707813
+1877,Parker-Rowe,Consumer Electronics/Appliances,11/23/2020,12/2/2020,Safety Technician II,22.32,38,30.80,59.67095668
+1984,"Tremblay, Muller and Hermiston",n/a,12/27/2020,1/5/2021,Web Developer I,19.13,38,26.40,59.74698176
+1465,"Gutkowski, Beahan and VonRueden",Broadcasting,6/27/2020,7/7/2020,Legal Assistant,14.44,41,20.36,62.69962832
+1180,"Heidenreich, O'Kon and Cummings","Computer Software: Programming, Data Processing",3/10/2020,3/20/2020,Professor,11.33,29,14.62,63.94648556
+1941,"Hand, Bode and Nitzsche",Computer Software: Prepackaged Software,12/14/2020,12/24/2020,Marketing Assistant,15.16,26,19.10,64.39599436
+1319,Rice-Hyatt,Specialty Chemicals,4/29/2020,5/9/2020,GIS Technical Architect,28.44,23,34.98,65.10355776
+1449,"Carroll, Swaniawski and Dibbert",n/a,6/21/2020,7/2/2020,Financial Advisor,21.04,41,29.67,66.8955321
+1972,"Leannon, O'Keefe and Gleichner",Oil & Gas Production,12/22/2020,1/2/2021,Paralegal,17.47,31,22.89,67.56443523
+1629,"Oberbrunner, Beatty and Hudson",n/a,8/28/2020,9/8/2020,Legal Assistant,19.67,40,27.54,68.42865518
+1630,"Heaney, Abshire and Lehner",Property-Casualty Insurers,8/29/2020,9/9/2020,Assistant Professor,16.7,40,23.38,68.77310517
+1423,"Bergstrom, Goldner and Nienow",Major Pharmaceuticals,6/11/2020,6/22/2020,Clinical Specialist,13.95,33,18.55,69.13716671
+1096,Larson-Fritsch,n/a,2/5/2020,2/16/2020,Teacher,14.41,43,20.61,69.92337257
+1175,Ward-Lebsack,Clothing/Shoe/Accessory Stores,3/8/2020,3/19/2020,Sales Associate,19.22,43,27.48,70.03245079
+1107,"Kreiger, Spencer and Roob",Food Distributors,2/8/2020,2/19/2020,Staff Accountant III,17.86,45,25.90,70.50880241
+1173,"Eichmann, Pfannerstill and Hand",Catalog/Specialty Distribution,3/8/2020,3/19/2020,Structural Analysis Engineer,22.74,38,31.38,70.59270799
+1863,Gutkowski-Bayer,Life Insurance,11/18/2020,11/29/2020,Web Designer I,8.97,38,12.38,71.55821079
+1477,Powlowski-Bernhard,Shoe Manufacturing,7/1/2020,7/13/2020,Engineer II,9.34,21,11.30,73.91615402
+1219,Torp-Welch,n/a,3/26/2020,4/7/2020,Technical Writer,17.95,28,22.98,74.09376567
+1249,"Gerlach, Waters and Prohaska",Semiconductors,4/6/2020,4/18/2020,Assistant Manager,24.42,31,31.99,74.83792602
+1347,"Heaney, Langosh and Jones",n/a,5/9/2020,5/21/2020,Occupational Therapist,12.1,37,16.58,74.91428397
+1364,Lockman Inc,n/a,5/14/2020,5/27/2020,Dental Hygienist,22.08,24,27.38,79.33921774
+1620,"Botsford, Farrell and Lesch",Property-Casualty Insurers,8/24/2020,9/6/2020,Professor,24.22,31,31.73,80.43168927
+1684,"Mayer, Balistreri and Brakus",Water Supply,9/14/2020,9/27/2020,Budget/Accounting Analyst I,28.43,33,37.81,83.00048685
+1394,Mayer Group,Steel/Iron Ore,5/26/2020,6/8/2020,Professor,20.66,30,26.86,83.49099331
+1640,Mosciski LLC,Biotechnology: Biological Products (No Diagnostic Substances),9/1/2020,9/15/2020,Software Test Engineer IV,21.34,38,29.45,86.55280706
+1487,Vandervort Inc,Major Banks,7/4/2020,7/18/2020,Financial Advisor,18.59,35,25.10,86.81209874
+1680,"Kassulke, Smitham and Marvin",Investment Managers,9/14/2020,9/28/2020,Administrative Assistant II,19.86,37,27.21,87.99399378
+1157,Huel LLC,Major Banks,3/2/2020,3/16/2020,Developer IV,8.36,34,11.20,88.1291658
+1346,Gorczany-Reynolds,n/a,5/9/2020,5/24/2020,Executive Secretary,15.81,25,19.76,90.97341828
+1608,Erdman-Thompson,Telecommunications Equipment,8/19/2020,9/3/2020,Associate Professor,19.37,33,25.76,91.19104597
+1767,Rippin and Sons,Other Consumer Services,10/14/2020,10/29/2020,Graphic Designer,22.28,30,28.96,91.54127959
+1067,"Kreiger, Balistreri and Langosh",n/a,1/25/2020,2/9/2020,Environmental Specialist,10.83,31,14.19,92.5780304
+1277,"Shanahan, Lockman and Pollich",Wholesale Distributors,4/16/2020,5/1/2020,VP Quality Control,14.51,21,17.56,93.16792852
+1181,Tremblay-Wiza,n/a,3/10/2020,3/25/2020,Developer II,22.18,34,29.72,93.51937358
+1686,Stanton and Sons,n/a,9/15/2020,9/30/2020,Recruiter,17.35,39,24.12,93.91637721
+1531,Erdman Inc,Commercial Banks,7/23/2020,8/7/2020,Paralegal,11.07,45,16.05,94.68690633
+1060,Lehner and Sons,Oil & Gas Production,1/22/2020,2/6/2020,Research Assistant IV,10.29,38,14.20,95.43602494
+1078,"Romaguera, Jacobs and Prosacco",Precious Metals,1/27/2020,2/11/2020,Research Associate,12.21,33,16.24,95.98873674
+1879,Boyer and Sons,Building Materials,11/24/2020,12/10/2020,Computer Systems Analyst I,25.3,23,31.12,97.73312014
+1808,Batz LLC,Oil & Gas Production,10/29/2020,11/14/2020,Web Designer III,14.02,32,18.51,98.03437044
+1935,White-Cummings,Real Estate Investment Trusts,12/10/2020,12/26/2020,Account Executive,14.56,41,20.53,98.83288019
+1532,"Brekke, Rath and Bergnaum",Major Pharmaceuticals,7/23/2020,8/8/2020,Research Nurse,12.27,33,16.32,99.89010281
+1172,Weber and Sons,Investment Managers,3/7/2020,3/23/2020,Community Outreach Specialist,8.22,43,11.75,100.0380929
+1886,"Schowalter, Reichert and Fritsch",Computer peripheral equipment,11/26/2020,12/12/2020,Registered Nurse,29.27,20,35.12,100.595097
+1806,"Marquardt, Feeney and Leuschke",Coal Mining,10/28/2020,11/13/2020,Chemical Engineer,21.09,27,26.78,100.776023
+1759,Dickens LLC,Real Estate Investment Trusts,10/12/2020,10/28/2020,Web Designer II,13.19,36,17.94,101.1340536
+1718,Nader and Sons,Major Pharmaceuticals,9/26/2020,10/12/2020,Senior Developer,27.07,42,38.44,101.336438
+1505,Stiedemann-Beatty,n/a,7/13/2020,7/29/2020,Help Desk Operator,29.62,42,42.06,101.6360997
+1514,Stiedemann Inc,Real Estate,7/17/2020,8/3/2020,Legal Assistant,13.06,31,17.11,102.0688759
+1130,"Hahn, Nikolaus and Altenwerth",Metal Fabrications,2/15/2020,3/3/2020,Marketing Assistant,11.91,30,15.48,102.4855202
+1334,Hoppe-Wiegand,Hotels/Resorts,5/5/2020,5/22/2020,Operator,28.21,45,40.90,102.9760226
+1569,"Hermann, Reichert and Stehr",Investment Bankers/Brokers/Service,8/7/2020,8/24/2020,Legal Assistant,15.54,38,21.45,103.242039
+1527,Nolan-Harvey,n/a,7/21/2020,8/7/2020,VP Accounting,7.27,27,9.23,103.748601
+1342,Murazik-Carroll,Major Chemicals,5/8/2020,5/25/2020,Compensation Analyst,25.32,23,31.14,104.4897617
+1625,White Inc,n/a,8/26/2020,9/12/2020,VP Marketing,18.52,43,26.48,104.8674331
+1179,Rempel Inc,Real Estate Investment Trusts,3/9/2020,3/26/2020,Geological Engineer,27.87,26,35.12,105.9389895
+1438,"Brown, Kertzmann and Cronin",EDP Services,6/17/2020,7/4/2020,Nurse Practicioner,18.95,30,24.64,105.9822146
+1831,Kutch-Raynor,Business Services,11/7/2020,11/24/2020,Research Nurse,16.18,26,20.39,107.5696634
+1244,"Emard, Swift and Beier",n/a,4/5/2020,4/23/2020,Sales Associate,23.66,41,33.36,109.2938178
+1632,Lang-Braun,Power Generation,8/29/2020,9/16/2020,Project Manager,29.62,30,38.51,109.4748046
+1114,"Kuphal, Heathcote and Williamson",Major Banks,2/11/2020,2/29/2020,Software Engineer IV,9.52,40,13.33,110.8418545
+1259,Pfannerstill Inc,n/a,4/9/2020,4/27/2020,VP Accounting,10.14,36,13.79,113.8331442
+1040,Grady-Rau,n/a,1/13/2020,1/31/2020,Environmental Specialist,12.16,43,17.39,113.9111872
+1086,Reilly-Metz,n/a,2/1/2020,2/20/2020,Chemical Engineer,9.41,23,11.57,114.1286806
+1427,Schroeder-Lowe,Commercial Banks,6/12/2020,7/1/2020,VP Accounting,9.98,33,13.27,114.4886775
+1906,Wilkinson-Frami,n/a,12/1/2020,12/20/2020,Environmental Tech,10.7,45,15.52,114.6935597
+1424,Leffler Inc,Services-Misc. Amusement & Recreation,6/11/2020,6/30/2020,Office Assistant I,21.42,36,29.13,115.3326354
+1224,Bahringer-Cremin,n/a,3/27/2020,4/15/2020,Assistant Manager,23.41,36,31.84,115.8537013
+1100,"Goldner, Schaefer and Runolfsson",Biotechnology: Laboratory Analytical Instruments,2/7/2020,2/26/2020,Administrative Officer,7.66,29,9.88,115.8832516
+1104,"Schimmel, Shanahan and Kuhic",Oil & Gas Production,2/8/2020,2/27/2020,Administrative Assistant IV,12.29,44,17.70,116.3654814
+1525,"Stark, Homenick and Brakus",Ophthalmic Goods,7/21/2020,8/9/2020,Food Chemist,13.74,39,19.10,116.4593275
+1596,"Stanton, Miller and Kub",Industrial Specialties,8/15/2020,9/3/2020,Research Nurse,16.47,22,20.09,116.8448517
+1382,"Sanford, Zulauf and Pfeffer",n/a,5/21/2020,6/9/2020,Media Manager I,22.24,40,31.14,117.0672927
+1970,Nikolaus Group,Integrated oil Companies,12/21/2020,1/9/2021,Editor,13.8,45,20.01,117.2818609
+1657,Williamson LLC,Major Pharmaceuticals,9/6/2020,9/25/2020,Nuclear Power Engineer,24.05,24,29.82,119.5121273
+1747,Mitchell Inc,Restaurants,10/7/2020,10/26/2020,Senior Financial Analyst,23.95,27,30.42,119.8531474
+1820,Jacobi Group,n/a,11/1/2020,11/21/2020,Business Systems Development Analyst,18.82,44,27.10,120.0828779
+1985,Spencer-Ankunding,n/a,12/27/2020,1/16/2021,VP Marketing,9.77,45,14.17,121.2794107
+1127,Leffler-Runolfsdottir,Farming/Seeds/Milling,2/15/2020,3/6/2020,Information Systems Manager,28.52,30,37.08,121.9913435
+1251,Sporer-Bradtke,n/a,4/7/2020,4/27/2020,Civil Engineer,26.12,31,34.22,122.0840939
+1655,Denesik Group,n/a,9/5/2020,9/25/2020,Staff Scientist,16.2,45,23.49,122.8761791
+1223,Huels-Rice,Commercial Banks,3/27/2020,4/16/2020,Teacher,16.55,30,21.52,123.0968233
+1260,Terry-Weber,Precious Metals,4/9/2020,4/29/2020,Sales Associate,26.4,23,32.47,123.2125598
+1801,"Kovacek, Boehm and Beatty",Major Banks,10/25/2020,11/14/2020,Engineer I,21.55,32,28.45,123.430409
+1292,"Goyette, Rice and Greenholt",n/a,4/19/2020,5/9/2020,Structural Analysis Engineer,27.97,37,38.32,124.2256248
+1910,"Dickens, Torphy and Terry",n/a,12/3/2020,12/23/2020,Media Manager III,9.33,36,12.69,124.694018
+1308,Schinner-Gutmann,n/a,4/24/2020,5/15/2020,Associate Professor,13.11,27,16.65,126.3503608
+1823,"Renner, Veum and Hane",Integrated oil Companies,11/3/2020,11/24/2020,VP Quality Control,28.42,43,40.64,126.9747646
+1624,McLaughlin LLC,n/a,8/26/2020,9/16/2020,VP Accounting,25.85,20,31.02,127.6341441
+1961,Hayes-Hamill,Investment Managers,12/19/2020,1/9/2021,Occupational Therapist,20.03,33,26.64,128.5930438
+1928,Adams-Mayer,Real Estate Investment Trusts,12/8/2020,12/29/2020,Research Assistant III,8.1,25,10.13,130.2156403
+1647,"Gusikowski, Cummings and King",Major Pharmaceuticals,9/3/2020,9/24/2020,Account Coordinator,25.47,42,36.17,131.9574202
+1523,Prosacco-Bashirian,Semiconductors,7/20/2020,8/11/2020,Data Coordiator,7.58,25,9.48,132.3669178
+1407,Rogahn-Lowe,Oil/Gas Transmission,6/4/2020,6/26/2020,Financial Advisor,10.67,20,12.80,132.4354881
+1538,Mayer-Purdy,n/a,7/24/2020,8/15/2020,Senior Financial Analyst,21.46,23,26.40,132.7149615
+1866,"Larson, Koss and O'Keefe",Business Services,11/18/2020,12/10/2020,Environmental Specialist,22.4,32,29.57,132.9827619
+1332,"Zieme, Emard and Barrows",Real Estate Investment Trusts,5/4/2020,5/26/2020,Computer Systems Analyst IV,20.28,27,25.76,133.5233788
+1799,Dibbert Group,Professional Services,10/25/2020,11/16/2020,Quality Engineer,25.05,26,31.56,134.2418461
+1637,O'Keefe-McDermott,Other Consumer Services,8/30/2020,9/21/2020,Staff Accountant I,16.82,41,23.72,135.5317105
+1878,Lowe-Sanford,n/a,11/24/2020,12/16/2020,Nurse,16.39,31,21.47,137.8748624
+1793,Quitzon-Dickens,n/a,10/23/2020,11/15/2020,Junior Executive,28.84,36,39.22,138.1402508
+1882,"Fay, Emmerich and Torp",Auto Parts:O.E.M.,11/25/2020,12/18/2020,Marketing Assistant,22.13,35,29.88,138.7080325
+1795,"Lang, Kerluke and Ziemann",n/a,10/24/2020,11/16/2020,Professor,21.05,20,25.26,139.6087396
+1090,"Jacobson, Lindgren and Jerde",Major Banks,2/2/2020,2/25/2020,Marketing Assistant,13.82,38,19.07,140.425715
+1378,"Wyman, Considine and Kemmer",Savings Institutions,5/20/2020,6/12/2020,Office Assistant I,14.2,37,19.45,141.9219025
+1129,Walker-Fadel,Other Consumer Services,2/15/2020,3/9/2020,Account Coordinator,16.53,40,23.14,142.0758389
+1388,Hirthe and Sons,Biotechnology: Biological Products (No Diagnostic Substances),5/23/2020,6/15/2020,Quality Control Specialist,8.12,39,11.29,142.4061199
+1852,Ziemann LLC,Automotive Aftermarket,11/16/2020,12/9/2020,Human Resources Manager,9.65,43,13.80,142.5626577
+1689,Stanton-Leannon,Trucking Freight/Courier Services,9/16/2020,10/9/2020,Mechanical Systems Engineer,16.96,22,20.69,142.7508408
+1706,Douglas-Kuhic,Metal Fabrications,9/22/2020,10/15/2020,Professor,23.05,28,29.50,143.1755916
+1371,"Klein, Powlowski and Berge",Medical/Dental Instruments,5/17/2020,6/10/2020,VP Product Management,13.51,45,19.59,146.2204276
+1406,Paucek-Kshlerin,Auto Parts:O.E.M.,6/3/2020,6/27/2020,Desktop Support Technician,8.6,45,12.47,146.5303862
+1816,Schiller-Stokes,Major Pharmaceuticals,10/31/2020,11/24/2020,Senior Financial Analyst,17.26,41,24.34,147.6581511
+1052,Beatty Inc,Investment Bankers/Brokers/Service,1/17/2020,2/10/2020,Registered Nurse,28.04,21,33.93,148.0981811
+1661,"Streich, Pagac and Towne",Department/Specialty Retail Stores,9/8/2020,10/2/2020,Business Systems Development Analyst,9.16,20,10.99,148.8934928
+1784,Frami LLC,Major Pharmaceuticals,10/20/2020,11/14/2020,Nurse Practicioner,23.83,42,33.84,150.0467918
+1896,"Langosh, Paucek and Mann","Computer Software: Programming, Data Processing",11/27/2020,12/22/2020,Director of Sales,17.89,25,22.36,153.5182603
+1256,Hilll-Schuster,Major Banks,4/8/2020,5/3/2020,Nuclear Power Engineer,9.73,29,12.55,154.2392372
+1417,"Heaney, Becker and Stokes",Newspapers/Magazines,6/7/2020,7/2/2020,Senior Financial Analyst,25.46,29,32.84,154.4187389
+1370,"Dibbert, Ritchie and Kiehn",Oil & Gas Production,5/16/2020,6/11/2020,Programmer IV,8.61,35,11.62,156.6256809
+1123,Abbott Inc,Television Services,2/14/2020,3/11/2020,Budget/Accounting Analyst III,27.8,41,39.20,157.2836717
+1903,"Bosco, Spencer and Schamberger",n/a,11/30/2020,12/26/2020,Editor,9.79,34,13.12,158.1788409
+1512,"Stokes, Shanahan and Bashirian",Newspapers/Magazines,7/16/2020,8/11/2020,Speech Pathologist,16.32,35,22.03,158.7292711
+1111,"Gerlach, Herzog and Hammes",Real Estate Investment Trusts,2/11/2020,3/8/2020,Safety Technician IV,18.96,45,27.49,159.7904353
+1484,"Auer, Schinner and Ernser",Business Services,7/3/2020,7/29/2020,Sales Representative,16.73,21,20.24,159.8589698
+1607,"Haag, Schuppe and Hane",Business Services,8/19/2020,9/14/2020,Financial Advisor,28.58,27,36.30,160.0782995
+1139,Jacobson and Sons,Power Generation,2/21/2020,3/18/2020,Environmental Specialist,23.81,43,34.05,160.6753429
+1987,Schowalter-Bruen,Coal Mining,12/27/2020,1/22/2021,Dental Hygienist,26.27,26,33.10,161.4195782
+1912,Schultz-Lueilwitz,Telecommunications Equipment,12/3/2020,12/29/2020,Senior Financial Analyst,14.07,39,19.56,161.5499114
+1955,"Maggio, Morissette and Friesen",n/a,12/18/2020,1/14/2021,Systems Administrator III,22.4,43,32.03,162.2184922
+1389,Kuphal LLC,Electric Utilities: Central,5/23/2020,6/19/2020,Automation Specialist IV,7.6,25,9.50,162.796519
+1534,McClure-Wuckert,Power Generation,7/23/2020,8/19/2020,Chemical Engineer,11.67,33,15.52,164.798115
+1088,"Pagac, Oberbrunner and Goodwin",Life Insurance,2/2/2020,2/29/2020,Structural Analysis Engineer,9.82,24,12.18,165.3531582
+1994,Balistreri-Russel,Medical/Dental Instruments,12/28/2020,1/24/2021,Tax Accountant,29.61,45,42.93,165.5225555
+1418,"Stark, Dietrich and Kerluke",Marine Transportation,6/8/2020,7/5/2020,Help Desk Technician,17.58,28,22.50,165.904188
+1537,O'Kon LLC,Computer Software: Prepackaged Software,7/23/2020,8/19/2020,Design Engineer,20.87,20,25.04,166.3624502
+1779,"Dicki, Hand and Zemlak",Major Banks,10/19/2020,11/16/2020,Analog Circuit Design manager,7.68,34,10.29,169.2545349
+1786,Hackett-Von,Business Services,10/20/2020,11/17/2020,Paralegal,23.87,34,31.99,169.6043451
+1864,Lehner-Legros,Farming/Seeds/Milling,11/18/2020,12/16/2020,Assistant Professor,8.72,32,11.51,170.0922119
+1920,Kozey Group,Medical/Dental Instruments,12/6/2020,1/3/2021,Product Engineer,15.48,26,19.50,170.4485302
+1056,"Cormier, Schinner and Bins",Medical/Dental Instruments,1/19/2020,2/16/2020,Web Developer III,12.58,43,17.99,171.284657
+1727,Homenick and Sons,Other Consumer Services,9/29/2020,10/27/2020,Recruiter,10.6,44,15.26,171.3413015
+1594,Schinner Inc,Major Pharmaceuticals,8/15/2020,9/12/2020,Engineer III,8.55,25,10.69,171.4949655
+1854,"Abbott, Muller and Kunde",Investment Bankers/Brokers/Service,11/17/2020,12/15/2020,Budget/Accounting Analyst III,9.45,23,11.62,172.2948721
+1015,Haag and Sons,Medical/Dental Instruments,1/5/2020,2/2/2020,Occupational Therapist,28.89,36,39.29,172.4829661
+1898,"Kerluke, Heathcote and Keeling",Automotive Aftermarket,11/28/2020,12/26/2020,Legal Assistant,14.18,28,18.15,173.269477
+1717,Pfannerstill-Kreiger,Containers/Packaging,9/26/2020,10/24/2020,Mechanical Systems Engineer,18.87,44,27.17,173.9118147
+1997,Kohler LLC,Specialty Chemicals,12/29/2020,1/27/2021,Health Coach III,19.87,23,24.44,174.3710261
+1827,Corwin Inc,Finance: Consumer Services,11/5/2020,12/4/2020,General Manager,28.62,31,37.49,174.9092253
+1564,"Jaskolski, Fahey and Lebsack",Package Goods/Cosmetics,8/4/2020,9/2/2020,Dental Hygienist,27.59,35,37.25,174.9988709
+1265,Nitzsche-Senger,Major Pharmaceuticals,4/13/2020,5/12/2020,VP Product Management,24.72,32,32.63,175.5699437
+1750,"Ward, Ankunding and Trantow",n/a,10/7/2020,11/5/2020,Compensation Analyst,26.04,39,36.20,176.5768638
+1185,Bartell-Padberg,Savings Institutions,3/12/2020,4/10/2020,Information Systems Manager,22.3,36,30.33,176.9662809
+1757,Ritchie and Sons,Major Banks,10/11/2020,11/9/2020,Developer I,20.9,32,27.59,177.2468922
+1014,"Pagac, Stroman and Koelpin",Auto Manufacturing,1/5/2020,2/3/2020,Senior Editor,15.06,30,19.58,177.5078464
+1247,"Langworth, Daugherty and Dickens",Investment Bankers/Brokers/Service,4/5/2020,5/4/2020,Help Desk Operator,26.79,28,34.29,177.7050735
+1269,Predovic-Wisoky,Investment Bankers/Brokers/Service,4/13/2020,5/12/2020,Registered Nurse,27.38,25,34.23,178.207649
+1847,"Champlin, Ratke and Wisozk",Major Pharmaceuticals,11/13/2020,12/12/2020,Safety Technician III,18.22,36,24.78,178.3610145
+1669,Funk-Marquardt,Major Banks,9/10/2020,10/9/2020,Desktop Support Technician,28.58,44,41.16,178.907621
+1159,"Hilll, Haag and Kshlerin",Automotive Aftermarket,3/3/2020,4/1/2020,Recruiter,24.18,27,30.71,179.2938829
+1942,Russel Inc,n/a,12/14/2020,1/13/2021,Project Manager,24.4,45,35.38,181.1518666
+1464,Dooley-Cassin,Biotechnology: Biological Products (No Diagnostic Substances),6/27/2020,7/27/2020,Staff Accountant II,26.77,31,35.07,181.8186103
+1619,"Boyle, Hickle and Johnston",Telecommunications Equipment,8/24/2020,9/23/2020,Structural Engineer,14.41,29,18.59,181.9326302
+1643,"Pacocha, Weissnat and Greenholt",Property-Casualty Insurers,9/2/2020,10/2/2020,Teacher,28.08,43,40.15,182.0458964
+1948,Hills-Harris,Major Banks,12/16/2020,1/15/2021,Biostatistician III,7.81,41,11.01,183.0522153
+1682,Medhurst-Jakubowski,n/a,9/14/2020,10/14/2020,Financial Advisor,15,40,21.00,184.8104675
+1460,"Hamill, Armstrong and Corkery",Paper,6/26/2020,7/26/2020,Professor,13.78,31,18.05,184.8532064
+1443,"Metz, Dach and Grant",n/a,6/18/2020,7/18/2020,Tax Accountant,28.39,22,34.64,185.8753198
+1918,"Mayer, Smith and Fay",n/a,12/6/2020,1/6/2021,Social Worker,23.39,30,30.41,186.1071389
+1715,Schiller Inc,Semiconductors,9/25/2020,10/26/2020,VP Quality Control,27.3,43,39.04,186.4352927
+1974,Erdman-Rath,Industrial Machinery/Components,12/23/2020,1/23/2021,Account Representative II,21.79,31,28.54,186.7734647
+1023,Altenwerth-Carter,Investment Bankers/Brokers/Service,1/8/2020,2/8/2020,Engineer II,11.79,34,15.80,187.2223103
+1229,"Flatley, Klein and Green",Major Pharmaceuticals,3/31/2020,5/1/2020,Help Desk Operator,25.44,22,31.04,188.6191917
+1736,"Bednar, McClure and Schimmel",Computer Software: Prepackaged Software,10/1/2020,11/1/2020,Systems Administrator I,19.31,22,23.56,189.1901935
+1422,Moen-Dare,Major Pharmaceuticals,6/9/2020,7/10/2020,Social Worker,8.18,20,9.82,189.3193213
+1447,Gislason and Sons,Accident &Health Insurance,6/19/2020,7/20/2020,Community Outreach Specialist,13.69,26,17.25,189.6937856
+1200,"Legros, Jacobi and Goodwin",Biotechnology: Biological Products (No Diagnostic Substances),3/18/2020,4/18/2020,Recruiting Manager,17.66,29,22.78,190.8259597
+1055,"Legros, Greenfelder and Wolf",Industrial Machinery/Components,1/18/2020,2/18/2020,Geological Engineer,13.03,24,16.16,191.4152171
+1566,Larson Inc,n/a,8/6/2020,9/6/2020,Operator,23.65,37,32.40,191.4615744
+1894,Erdman-Reichert,Real Estate Investment Trusts,11/27/2020,12/28/2020,Mechanical Systems Engineer,12.77,20,15.32,191.5116623
+1322,Cremin Group,Oil & Gas Production,5/1/2020,6/1/2020,VP Sales,23.04,36,31.33,191.8031728
+1617,Zemlak and Sons,Automotive Aftermarket,8/24/2020,9/25/2020,VP Sales,24.48,28,31.33,195.0832303
+1535,Klocko-Hermiston,Packaged Foods,7/23/2020,8/24/2020,Environmental Specialist,23.51,42,33.38,196.4945732
+1218,Schroeder-Waters,Aluminum,3/26/2020,4/28/2020,Office Assistant I,27.67,30,35.97,199.3525788
+1694,"Swift, Cummerata and Lemke",Savings Institutions,9/19/2020,10/22/2020,Editor,29.5,28,37.76,199.7623661
+1059,"Weimann, Wolf and Nienow",Electric Utilities: Central,1/21/2020,2/23/2020,Social Worker,8.14,25,10.18,199.821961
+1478,Hudson and Sons,Major Pharmaceuticals,7/2/2020,8/4/2020,Assistant Manager,18.97,36,25.80,200.6044709
+1807,Strosin-Heller,Restaurants,10/28/2020,11/30/2020,Paralegal,12.23,30,15.90,200.8458939
+1703,Witting-Zulauf,n/a,9/22/2020,10/25/2020,Community Outreach Specialist,23.82,36,32.40,202.4595372
+1545,"Gulgowski, Gaylord and Lubowitz",Natural Gas Distribution,7/26/2020,8/28/2020,Tax Accountant,25.85,44,37.22,202.6213679
+1131,Luettgen Inc,Business Services,2/17/2020,3/21/2020,Research Nurse,29.92,36,40.69,203.5031455
+1288,"Eichmann, Goldner and Blanda",Oil & Gas Production,4/18/2020,5/22/2020,Dental Hygienist,9.69,23,11.92,204.5021699
+1080,"Stanton, Beahan and Carroll",Major Pharmaceuticals,1/29/2020,3/3/2020,Editor,23.79,27,30.21,204.6014225
+1032,Jast-Ebert,n/a,1/10/2020,2/13/2020,VP Quality Control,23.87,38,32.94,204.6531736
+1158,"Erdman, Runolfsson and Kulas",Major Pharmaceuticals,3/3/2020,4/6/2020,VP Product Management,13.23,32,17.46,205.0090664
+1991,Hodkiewicz-Douglas,Industrial Machinery/Components,12/28/2020,1/31/2021,Research Associate,15.7,33,20.88,205.452151
+1959,Welch and Sons,Rental/Leasing Companies,12/18/2020,1/21/2021,Financial Analyst,29.07,25,36.34,205.5106185
+1411,"Torphy, Beer and Goyette",Major Pharmaceuticals,6/5/2020,7/9/2020,Research Associate,20.5,28,26.24,206.1947292
+1828,Keebler Group,Business Services,11/5/2020,12/9/2020,Budget/Accounting Analyst III,15.34,27,19.48,206.7046585
+1069,Herzog LLC,Business Services,1/26/2020,2/29/2020,Research Associate,17.5,38,24.15,207.1694416
+1409,Lesch-Purdy,n/a,6/5/2020,7/9/2020,Mechanical Systems Engineer,26.92,44,38.76,207.5539704
+1819,"Barrows, Franecki and Schulist",Industrial Machinery/Components,11/1/2020,12/5/2020,Structural Engineer,12.05,25,15.06,208.7081495
+1628,"Kovacek, Ryan and Leffler",Real Estate Investment Trusts,8/28/2020,10/1/2020,Physical Therapy Assistant,11.67,34,15.64,209.0066733
+1299,Dickinson-Abernathy,Auto Manufacturing,4/22/2020,5/26/2020,Dental Hygienist,29.42,22,35.89,209.2318262
+1932,"Turner, Prohaska and Dietrich",Industrial Specialties,12/10/2020,1/14/2021,Software Consultant,26.99,26,34.01,210.334962
+1919,Rice-Simonis,Oil & Gas Production,12/6/2020,1/10/2021,Teacher,20.45,24,25.36,210.7702918
+1843,Simonis LLC,n/a,11/12/2020,12/17/2020,Automation Specialist III,16.57,45,24.03,210.8494037
+1192,Walter Group,Other Consumer Services,3/15/2020,4/19/2020,Food Chemist,19.25,28,24.64,211.2960546
+1387,Fahey Inc,Major Banks,5/23/2020,6/27/2020,Pharmacist,21.53,24,26.70,211.3516826
+1188,Jaskolski Inc,Natural Gas Distribution,3/14/2020,4/18/2020,Systems Administrator I,26.97,22,32.90,211.6048108
+1440,"Marquardt, Shanahan and Dickinson",Real Estate,6/17/2020,7/22/2020,Marketing Manager,12.67,31,16.60,212.2793674
+1494,"Graham, Ward and Schmitt",Real Estate Investment Trusts,7/7/2020,8/11/2020,Software Test Engineer I,27.15,42,38.55,214.3878398
+1213,Nader LLC,n/a,3/22/2020,4/26/2020,Physical Therapy Assistant,9.52,27,12.09,214.3920588
+1559,Hauck-Little,n/a,7/30/2020,9/3/2020,Information Systems Manager,21.05,24,26.10,215.0626274
+1490,Toy and Sons,n/a,7/5/2020,8/9/2020,Speech Pathologist,20.12,28,25.75,215.0954201
+1124,"Wintheiser, Hilll and Skiles",Hotels/Resorts,2/14/2020,3/20/2020,GIS Technical Architect,13.4,21,16.21,215.4085125
+1199,Hane and Sons,n/a,3/18/2020,4/22/2020,Health Coach III,27.27,37,37.36,215.5621921
+1325,Kunze and Sons,Major Banks,5/1/2020,6/6/2020,Nurse Practicioner,18.98,38,26.19,216.150093
+1194,Harris Inc,Major Pharmaceuticals,3/16/2020,4/21/2020,VP Accounting,25.78,31,33.77,218.3223339
+1386,"Quigley, Nitzsche and Brown",Other Specialty Stores,5/23/2020,6/29/2020,Administrative Officer,29.1,21,35.21,222.1900104
+1768,Collier LLC,Electronic Components,10/15/2020,11/21/2020,Social Worker,19.84,35,26.78,222.8178041
+1428,Jacobs-Kunde,Major Pharmaceuticals,6/13/2020,7/20/2020,Analog Circuit Design manager,21.73,20,26.08,223.5267889
+1271,"Ledner, Mante and Leffler",Major Banks,4/14/2020,5/21/2020,Budget/Accounting Analyst IV,28.64,39,39.81,224.9291623
+1656,"Reinger, Fisher and Dach",Major Banks,9/6/2020,10/13/2020,Executive Secretary,18.56,20,22.27,225.0908719
+1587,Sauer-Crona,Oil & Gas Production,8/12/2020,9/18/2020,Staff Accountant III,16.37,22,19.97,225.1243986
+1780,"Cummerata, Rosenbaum and Rath",Textiles,10/19/2020,11/25/2020,Editor,24.49,31,32.08,227.1354284
+1430,Koepp and Sons,Telecommunications Equipment,6/14/2020,7/21/2020,Executive Secretary,14.02,22,17.10,227.6337939
+1567,Barton-Lindgren,Semiconductors,8/6/2020,9/12/2020,Accounting Assistant III,18.38,34,24.63,227.9684253
+1962,Hagenes and Sons,Oilfield Services/Equipment,12/19/2020,1/26/2021,Community Outreach Specialist,29.93,26,37.71,228.4494462
+1226,"Prohaska, Gaylord and Dickinson",Major Pharmaceuticals,3/27/2020,5/4/2020,Professor,26.51,44,38.17,228.6652479
+1778,Bergnaum-Keebler,Life Insurance,10/19/2020,11/26/2020,Food Chemist,8.44,36,11.48,230.9443205
+1789,"Murazik, Volkman and Boyle",Investment Managers,10/22/2020,11/29/2020,Research Assistant I,7.36,21,8.91,231.0351829
+1774,Osinski-Vandervort,n/a,10/17/2020,11/24/2020,Marketing Assistant,11.29,20,13.55,231.6457944
+1554,Fay Inc,Specialty Foods,7/29/2020,9/5/2020,Safety Technician I,16.96,39,23.57,232.3104363
+1597,"Erdman, Klein and Jaskolski",n/a,8/15/2020,9/22/2020,Project Manager,22.34,44,32.17,232.341052
+1659,Gaylord and Sons,Major Banks,9/7/2020,10/15/2020,VP Marketing,16.78,37,22.99,232.904639
+1236,"Strosin, Dooley and Borer",n/a,4/3/2020,5/11/2020,Editor,11.35,31,14.87,233.3027906
+1243,Kulas-Fadel,Major Banks,4/5/2020,5/14/2020,Senior Editor,27.84,25,34.80,234.4801882
+1670,Ruecker and Sons,n/a,9/10/2020,10/19/2020,Librarian,19.87,36,27.02,234.6053624
+1354,"Batz, Kreiger and Bahringer",Major Banks,5/12/2020,6/20/2020,Mechanical Systems Engineer,14.63,21,17.70,235.5065533
+1645,Ziemann LLC,Commercial Banks,9/3/2020,10/12/2020,Analog Circuit Design manager,18.55,41,26.16,235.6425001
+1675,"Predovic, Conroy and Lehner",Consumer Electronics/Video Chains,9/11/2020,10/20/2020,Speech Pathologist,17.3,20,20.76,235.9483814
+1642,"Pollich, Krajcik and Okuneva",Medical Specialities,9/2/2020,10/11/2020,Legal Assistant,15.44,20,18.53,236.1122406
+1502,Christiansen Inc,Finance: Consumer Services,7/11/2020,8/19/2020,Professor,16.68,36,22.68,237.3496081
+1454,Johns Inc,Business Services,6/23/2020,8/1/2020,Clinical Specialist,14.69,34,19.68,237.655995
+1360,Kautzer-Wunsch,Hospital/Nursing Management,5/13/2020,6/21/2020,Paralegal,24.51,22,29.90,238.1906599
+1622,Schinner Group,Major Pharmaceuticals,8/25/2020,10/3/2020,Financial Analyst,17.27,41,24.35,238.2702159
+1501,Skiles-Rogahn,Major Pharmaceuticals,7/11/2020,8/20/2020,Librarian,29.65,20,35.58,240.5255865
+1143,"Keebler, Boehm and Eichmann",n/a,2/24/2020,4/4/2020,Research Associate,9.69,31,12.69,240.7907259
+1220,Yost Inc,Environmental Services,3/26/2020,5/5/2020,Senior Cost Accountant,24.53,30,31.89,241.5487991
+1951,Towne-Franecki,Major Banks,12/17/2020,1/26/2021,Nuclear Power Engineer,21.33,34,28.58,241.7952769
+1026,"Kuhlman, Homenick and Purdy",Major Banks,1/9/2020,2/18/2020,Environmental Specialist,11.07,42,15.72,242.4372648
+1553,"Kuhic, Willms and Stiedemann",Medical/Dental Instruments,7/28/2020,9/6/2020,Environmental Specialist,28.95,27,36.77,242.4580454
+1390,O'Keefe-Champlin,Major Banks,5/23/2020,7/2/2020,Product Engineer,17.01,28,21.77,243.4229136
+1507,Nienow-Miller,Major Banks,7/14/2020,8/23/2020,Director of Sales,16.17,40,22.64,244.7990378
+1836,Stracke LLC,n/a,11/9/2020,12/19/2020,Automation Specialist III,23.67,36,32.19,245.0796991
+1068,Batz-Brakus,Real Estate Investment Trusts,1/25/2020,3/5/2020,Programmer I,10.48,43,14.99,245.2146228
+1709,Cassin Group,Commercial Banks,9/24/2020,11/4/2020,Staff Scientist,12.42,33,16.52,246.2812106
+1848,Jakubowski Group,Investment Managers,11/15/2020,12/26/2020,Social Worker,9.24,36,12.57,246.6000471
+1235,Trantow-Cartwright,Industrial Machinery/Components,4/3/2020,5/14/2020,Registered Nurse,19.85,21,24.02,246.8752449
+1094,Bauch LLC,Commercial Banks,2/4/2020,3/16/2020,Account Executive,25.06,37,34.33,246.8960202
+1551,Rosenbaum Group,EDP Services,7/28/2020,9/7/2020,Technical Writer,15.77,28,20.19,247.4102846
+1699,"Heidenreich, Koepp and Raynor",Major Pharmaceuticals,9/21/2020,11/1/2020,Programmer I,14.95,33,19.88,248.1040125
+1197,Satterfield LLC,Major Chemicals,3/17/2020,4/27/2020,Human Resources Assistant III,27.27,26,34.36,248.186912
+1306,"Toy, Miller and Anderson",Auto Parts:O.E.M.,4/24/2020,6/4/2020,Sales Representative,12.58,39,17.49,249.4265577
+1998,Borer LLC,Business Services,12/30/2020,2/9/2021,Chemical Engineer,13.28,44,19.12,249.4803034
+1636,Bayer LLC,Computer Manufacturing,8/30/2020,10/10/2020,Software Consultant,17.8,29,22.96,249.7835938
+1313,"Dare, Kshlerin and MacGyver",Homebuilding,4/26/2020,6/6/2020,Data Coordiator,22.86,33,30.40,249.9913138
+1990,Breitenberg-Sipes,Natural Gas Distribution,12/28/2020,2/7/2021,Geologist IV,13.32,38,18.38,250.1965041
+1861,"Corwin, Fay and Kemmer",EDP Services,11/17/2020,12/28/2020,Programmer Analyst II,28.65,33,38.10,250.2024663
+1393,"Leuschke, Corkery and Gutkowski",Plastic Products,5/25/2020,7/5/2020,Analog Circuit Design manager,27.47,41,38.73,250.2721193
+1324,Prohaska Inc,Major Banks,5/1/2020,6/11/2020,Librarian,19.04,37,26.08,250.5161867
+1161,Skiles-Strosin,Semiconductors,3/3/2020,4/13/2020,Physical Therapy Assistant,19.42,24,24.08,250.6148853
+1924,"Torphy, Bogisich and Cremin",Medical/Nursing Services,12/7/2020,1/17/2021,Recruiter,20.13,22,24.56,250.6645273
+1112,Howell-Johns,n/a,2/11/2020,3/23/2020,Senior Sales Associate,24.46,35,33.02,251.4033008
+1857,"Eichmann, Bartell and Feil",n/a,11/17/2020,12/29/2020,Media Manager IV,28.78,22,35.11,252.3597513
+1017,Abbott-Hane,Biotechnology: Biological Products (No Diagnostic Substances),1/6/2020,2/17/2020,Geological Engineer,19.59,34,26.25,252.7766302
+1099,Schroeder-Denesik,n/a,2/6/2020,3/19/2020,Safety Technician III,22.85,38,31.53,253.8173931
+1221,Lemke LLC,Major Banks,3/26/2020,5/7/2020,Account Executive,17.9,25,22.38,254.7474295
+1811,Maggio-Carter,Plastic Products,10/30/2020,12/11/2020,Programmer Analyst I,20.35,21,24.62,255.0114906
+1174,"Murphy, Bednar and Terry",Oil & Gas Production,3/8/2020,4/19/2020,Product Engineer,14.44,20,17.33,255.9602281
+1868,Gutkowski Inc,Real Estate Investment Trusts,11/20/2020,1/1/2021,Occupational Therapist,19.65,38,27.12,256.1952576
+1533,D'Amore Group,Coal Mining,7/23/2020,9/3/2020,VP Accounting,20.69,20,24.83,256.7848287
+1571,Welch-Robel,Services-Misc. Amusement & Recreation,8/7/2020,9/18/2020,Electrical Engineer,21.86,23,26.89,257.6960537
+1225,Labadie LLC,n/a,3/27/2020,5/9/2020,Tax Accountant,14,40,19.60,258.0178405
+1338,Johnston-Brown,n/a,5/5/2020,6/17/2020,Analog Circuit Design manager,15.33,40,21.46,258.2236746
+1892,McCullough Inc,Computer Software: Prepackaged Software,11/27/2020,1/9/2021,Senior Developer,13.53,32,17.86,259.6336964
+1054,Reichert LLC,Industrial Machinery/Components,1/18/2020,3/1/2020,Professor,16.81,25,21.01,259.6884303
+1577,"Kirlin, Kirlin and Klocko",n/a,8/10/2020,9/22/2020,Operator,17.67,40,24.74,260.3673245
+1109,Mitchell LLC,Business Services,2/9/2020,3/23/2020,Civil Engineer,12.49,23,15.36,261.0630723
+1606,Batz-Denesik,Transportation Services,8/19/2020,10/1/2020,Senior Quality Engineer,13.78,39,19.15,261.1474082
+1279,Ledner Inc,Packaged Foods,4/16/2020,5/29/2020,Senior Editor,24.16,39,33.58,261.4875689
+1568,Stehr-Marquardt,n/a,8/6/2020,9/19/2020,Systems Administrator IV,23.48,21,28.41,265.504301
+1842,Hermann-Stiedemann,Broadcasting,11/11/2020,12/25/2020,Accounting Assistant IV,23.04,43,32.95,267.3792497
+1473,Rogahn and Sons,Biotechnology: Commercial Physical & Biological Resarch,6/30/2020,8/13/2020,Engineer IV,9.3,44,13.39,267.4476925
+1777,Bruen-Dicki,EDP Services,10/19/2020,12/2/2020,Executive Secretary,16.39,35,22.13,267.5347858
+1466,Jenkins LLC,n/a,6/27/2020,8/10/2020,Research Associate,23.1,44,33.26,269.2398874
+1792,"Schimmel, Hansen and Langosh",Precious Metals,10/23/2020,12/7/2020,Programmer Analyst I,22.94,24,28.45,270.1488707
+1097,Bradtke and Sons,Investment Bankers/Brokers/Service,2/5/2020,3/21/2020,Staff Accountant II,29.66,42,42.12,270.1606395
+1891,Emard-Powlowski,Biotechnology: Biological Products (No Diagnostic Substances),11/26/2020,1/10/2021,Web Developer III,24.76,32,32.68,270.4904719
+1950,"Metz, Welch and Ondricka",n/a,12/17/2020,1/31/2021,Quality Engineer,12.79,33,17.01,270.6562458
+1542,Lindgren Inc,Business Services,7/25/2020,9/8/2020,Quality Control Specialist,17.02,24,21.10,270.7322504
+1048,Kohler LLC,Television Services,1/16/2020,3/1/2020,VP Marketing,13.75,34,18.43,270.8042349
+1672,"Grant, Stracke and Greenfelder",n/a,9/11/2020,10/26/2020,Office Assistant III,15.54,36,21.13,271.0676454
+1420,O'Reilly Inc,Real Estate,6/9/2020,7/24/2020,Sales Representative,8.67,33,11.53,271.117254
+1788,Jacobson-Kub,Medical/Nursing Services,10/21/2020,12/5/2020,Compensation Analyst,20.02,24,24.82,271.3486501
+1543,Ernser-O'Connell,Computer Software: Prepackaged Software,7/25/2020,9/8/2020,Teacher,26.42,41,37.25,271.5281153
+1042,Lakin-Toy,Investment Managers,1/14/2020,2/28/2020,Editor,9.58,41,13.51,272.4248342
+1435,"Ryan, Mraz and Cronin",Computer Software: Prepackaged Software,6/16/2020,7/31/2020,Assistant Professor,28.83,26,36.33,272.4391116
+1168,"Boyle, Anderson and Dach",Auto Parts:O.E.M.,3/6/2020,4/20/2020,Mechanical Systems Engineer,11.85,42,16.83,272.8072873
+1845,Turcotte-Kuhn,Major Pharmaceuticals,11/13/2020,12/28/2020,Pharmacist,10.04,24,12.45,272.8692229
+1310,Medhurst-Bosco,Electric Utilities: Central,4/25/2020,6/9/2020,Research Assistant III,8.69,32,11.47,273.4068659
+1266,"O'Hara, Frami and Goyette",n/a,4/13/2020,5/28/2020,Registered Nurse,8.23,43,11.77,273.998037
+1835,Hauck-Gleichner,Air Freight/Delivery Services,11/8/2020,12/23/2020,Software Test Engineer IV,9.24,20,11.09,274.406553
+1482,"Mills, Marvin and Ritchie",Oil Refining/Marketing,7/3/2020,8/17/2020,Teacher,16.47,27,20.92,274.8916259
+1588,Kshlerin-Pfannerstill,n/a,8/12/2020,9/27/2020,Software Test Engineer IV,27.13,37,37.17,276.3086087
+1261,Effertz LLC,n/a,4/11/2020,5/27/2020,Business Systems Development Analyst,12.95,30,16.84,277.1587692
+1357,Smith-Skiles,Major Pharmaceuticals,5/12/2020,6/27/2020,Physical Therapy Assistant,19.58,22,23.89,277.4780402
+1797,Padberg-Green,Other Specialty Stores,10/24/2020,12/9/2020,Marketing Manager,16.12,33,21.44,279.0322376
+1818,"Denesik, Dietrich and Shields",Home Furnishings,11/1/2020,12/17/2020,Speech Pathologist,22.34,42,31.72,279.6911774
+1653,Hilll Inc,n/a,9/5/2020,10/21/2020,Safety Technician III,29.88,22,36.45,279.8342725
+1005,Wilderman-Rippin,Telecommunications Equipment,1/2/2020,2/17/2020,VP Quality Control,29.54,28,37.81,280.468946
+1286,"Ratke, Konopelski and Treutel",Radio And Television Broadcasting And Communications Equipment,4/18/2020,6/3/2020,Research Nurse,24.54,36,33.37,280.5202657
+1439,Kunze and Sons,Industrial Specialties,6/17/2020,8/2/2020,Food Chemist,17.55,23,21.59,280.5427159
+1907,"Hahn, Schoen and Paucek",Water Supply,12/2/2020,1/17/2021,Accounting Assistant III,24.58,38,33.92,280.9362578
+1708,"Donnelly, Emard and Lockman",n/a,9/23/2020,11/8/2020,Recruiting Manager,24.96,33,33.20,281.7122581
+1800,Stoltenberg-Bashirian,n/a,10/25/2020,12/11/2020,Accounting Assistant IV,10.77,33,14.32,282.4015877
+1133,"Hackett, Gibson and Hahn",Trucking Freight/Courier Services,2/19/2020,4/6/2020,Database Administrator II,26.99,25,33.74,282.8395722
+1756,Casper Inc,Commercial Banks,10/11/2020,11/27/2020,Community Outreach Specialist,10.51,27,13.35,283.1927603
+1043,"Crona, Wintheiser and Rohan",Oilfield Services/Equipment,1/15/2020,3/2/2020,Human Resources Manager,29.58,22,36.09,284.5991929
+1748,"Leannon, Anderson and King",Oil Refining/Marketing,10/7/2020,11/23/2020,Associate Professor,24.15,22,29.46,284.664535
+1399,Luettgen-Rohan,Metal Fabrications,5/30/2020,7/16/2020,Chief Design Engineer,7.81,33,10.39,285.4388435
+1855,Bernier LLC,n/a,11/17/2020,1/3/2021,Assistant Media Planner,11.16,43,15.96,285.8686916
+1248,Leffler and Sons,Telecommunications Equipment,4/6/2020,5/23/2020,Graphic Designer,16.63,27,21.12,286.1799617
+1152,Flatley-Gibson,Telecommunications Equipment,2/26/2020,4/13/2020,Actuary,18.02,40,25.23,286.7940165
+1003,Crooks-Labadie,Major Pharmaceuticals,1/2/2020,2/19/2020,Account Representative III,9.5,31,12.45,288.0299611
+1754,Murray Group,Business Services,10/10/2020,11/27/2020,Human Resources Assistant IV,22.09,24,27.39,288.6906251
+1433,"Schuster, Kiehn and Tillman",n/a,6/15/2020,8/2/2020,Systems Administrator II,10.98,31,14.38,289.2106596
+1405,Prosacco-McLaughlin,Semiconductors,6/2/2020,7/20/2020,Administrative Officer,10.56,40,14.78,289.9380747
+1150,Hermiston-Lakin,Oilfield Services/Equipment,2/25/2020,4/13/2020,Assistant Media Planner,20.05,38,27.67,290.0222013
+1305,"Pfannerstill, Rath and Lind",Banks,4/24/2020,6/11/2020,Help Desk Technician,26.07,27,33.11,290.0547423
+1121,"Langosh, Smitham and Larkin",Hotels/Resorts,2/13/2020,4/1/2020,Executive Secretary,12.35,32,16.30,290.431043
+1196,"Kshlerin, Huels and Walker",Investment Managers,3/16/2020,5/3/2020,Compensation Analyst,16.5,36,22.44,290.9004345
+1712,"Doyle, Hermiston and Beer",Biotechnology: Electromedical & Electrotherapeutic Apparatus,9/24/2020,11/11/2020,Editor,14.93,31,19.56,290.9475229
+1307,"Metz, Johnson and Schuppe",Services-Misc. Amusement & Recreation,4/24/2020,6/11/2020,Quality Control Specialist,19.01,33,25.28,291.7560278
+1317,Nader-Jast,Hospital/Nursing Management,4/27/2020,6/14/2020,Analyst Programmer,14.24,35,19.22,291.9205938
+1082,McClure-Daniel,Computer Software: Prepackaged Software,1/30/2020,3/18/2020,Staff Scientist,17.24,44,24.83,292.3839769
+1940,"Weimann, Mraz and Roberts",n/a,12/13/2020,1/30/2021,Web Designer IV,26.82,32,35.40,293.5494245
+1397,Buckridge-Monahan,n/a,5/27/2020,7/15/2020,VP Product Management,17.86,42,25.36,294.0277673
+2000,"Runolfsson, Hessel and Hand",Biotechnology: In Vitro & In Vivo Diagnostic Substances,12/30/2020,2/17/2021,Speech Pathologist,20.2,30,26.26,295.1524059
+1900,Price-Effertz,n/a,11/29/2020,1/17/2021,Assistant Media Planner,10.23,38,14.12,295.2486206
+1679,Hilpert-Yundt,Investment Bankers/Brokers/Service,9/13/2020,11/1/2020,Assistant Media Planner,25.69,22,31.34,297.6830306
+1002,Wilderman-Nitzsche,n/a,1/2/2020,2/20/2020,Research Assistant I,16.69,30,21.70,297.7577771
+1339,"Fritsch, Gleichner and Wehner",Business Services,5/5/2020,6/23/2020,Associate Professor,10.76,23,13.23,298.1694958
+1167,Goyette-Hauck,Real Estate Investment Trusts,3/6/2020,4/24/2020,Account Representative IV,18.41,24,22.83,299.2225535
+1700,Bahringer and Sons,Apparel,9/21/2020,11/9/2020,Biostatistician I,25.68,23,31.59,299.5435426
+1993,"Moen, Wunsch and Kuhlman",Mining & Quarrying of Nonmetallic Minerals (No Fuels),12/28/2020,2/16/2021,General Manager,29.52,34,39.56,301.3864416
+1528,Dickens Group,Computer peripheral equipment,7/21/2020,9/9/2020,Occupational Therapist,10.84,22,13.22,301.4812874
+1349,"Lueilwitz, Howell and West",Business Services,5/10/2020,6/29/2020,Marketing Manager,29.36,43,41.98,302.1726818
+1021,"Barrows, Smitham and Watsica",Specialty Foods,1/7/2020,2/26/2020,Dental Hygienist,22.24,40,31.14,302.664075
+1890,Deckow LLC,RETAIL: Building Materials,11/26/2020,1/15/2021,Legal Assistant,16.46,29,21.23,303.0959509
+1871,Herman-Armstrong,Semiconductors,11/20/2020,1/9/2021,Marketing Assistant,13.08,33,17.40,303.1721468
+1830,Hudson and Sons,Semiconductors,11/6/2020,12/26/2020,Help Desk Operator,14.68,43,20.99,304.3544331
+1658,Ziemann Inc,Property-Casualty Insurers,9/6/2020,10/26/2020,Clinical Specialist,13.46,35,18.17,304.6092581
+1639,Gulgowski Inc,Major Banks,9/1/2020,10/21/2020,Assistant Media Planner,12.86,29,16.59,305.6597372
+1945,Hand-Runolfsson,Trucking Freight/Courier Services,12/15/2020,2/3/2021,Media Manager I,8.78,43,12.56,305.8518626
+1971,"Schmidt, Sauer and Fahey",n/a,12/21/2020,2/10/2021,Graphic Designer,10.98,37,15.04,306.2122984
+1930,Schowalter Group,Marine Transportation,12/9/2020,1/29/2021,Information Systems Manager,19.39,43,27.73,306.2649278
+1552,Kemmer-Halvorson,Restaurants,7/28/2020,9/17/2020,Pharmacist,28.66,23,35.25,307.2395041
+1293,"Hessel, Effertz and Hand",Savings Institutions,4/19/2020,6/9/2020,Media Manager III,13.31,26,16.77,307.6396969
+1240,"Lynch, Jast and Mraz",Electric Utilities: Central,4/4/2020,5/25/2020,Associate Professor,18.24,41,25.72,307.8184637
+1257,"Schoen, Kuhlman and Jaskolski",Semiconductors,4/8/2020,5/29/2020,Software Test Engineer IV,23.41,45,33.94,308.502426
+1283,"Feeney, Hintz and Gleichner",Industrial Machinery/Components,4/17/2020,6/7/2020,Tax Accountant,17.62,38,24.32,308.6578809
+1723,Howell Group,Telecommunications Equipment,9/27/2020,11/17/2020,Electrical Engineer,17.25,26,21.74,309.6495573
+1156,"Williamson, Hirthe and Becker",Beverages (Production/Distribution),3/2/2020,4/22/2020,Librarian,17.77,39,24.70,309.7147504
+1812,"Terry, Dietrich and Shields",Biotechnology: Commercial Physical & Biological Resarch,10/30/2020,12/20/2020,Senior Quality Engineer,20.76,34,27.82,310.0952882
+1931,Von-Heidenreich,EDP Services,12/9/2020,1/29/2021,Human Resources Manager,9.36,25,11.70,310.1988225
+1858,"Goldner, Kerluke and Ernser",n/a,11/17/2020,1/7/2021,Programmer II,21.03,35,28.39,310.320047
+1204,Effertz and Sons,Savings Institutions,3/19/2020,5/9/2020,Developer II,25.46,21,30.81,311.6356842
+1301,Huel-Hagenes,Telecommunications Equipment,4/23/2020,6/14/2020,Research Associate,20.43,36,27.78,312.0684819
+1518,Legros-Gutmann,Oilfield Services/Equipment,7/18/2020,9/8/2020,Registered Nurse,10.19,38,14.06,312.7502761
+1145,Schmidt-Kohler,Precious Metals,2/25/2020,4/17/2020,Analyst Programmer,17.4,27,22.10,313.3426074
+1506,"Kovacek, Corkery and Murphy",Major Chemicals,7/14/2020,9/4/2020,Chief Design Engineer,10.59,26,13.34,313.5306869
+1009,Nolan LLC,n/a,1/3/2020,2/24/2020,Assistant Manager,14.34,43,20.51,316.7340388
+1663,"Hayes, Koelpin and Rosenbaum",Building Products,9/8/2020,10/31/2020,Associate Professor,23.35,37,31.99,318.1656958
+1775,"Luettgen, Hintz and Runolfsson",Life Insurance,10/17/2020,12/9/2020,Software Consultant,28.63,45,41.51,318.2421549
+1216,Harvey Inc,Metal Fabrications,3/24/2020,5/16/2020,Account Executive,23.75,34,31.83,318.3662231
+1728,Goyette Inc,n/a,9/29/2020,11/21/2020,Administrative Assistant IV,25.22,42,35.81,319.2952075
+1187,Sipes Inc,Semiconductors,3/14/2020,5/6/2020,Data Coordiator,10.41,35,14.05,319.445687
+1083,Simonis-Collins,n/a,1/31/2020,3/24/2020,Dental Hygienist,25.14,35,33.94,319.6788649
+1572,"Swift, Johnston and Kohler",Other Specialty Stores,8/7/2020,9/29/2020,Database Administrator IV,7.68,32,10.14,319.9520928
+1209,"Veum, Ziemann and Abshire",Electrical Products,3/21/2020,5/13/2020,Senior Quality Engineer,21.19,35,28.61,320.2665203
+1825,"Pfeffer, Wuckert and Sporer",n/a,11/4/2020,12/27/2020,Operator,7.87,31,10.31,320.7167186
+1646,Douglas-Mayer,Finance: Consumer Services,9/3/2020,10/26/2020,Marketing Assistant,23.23,33,30.90,321.6803049
+1927,Zboncak LLC,Food Distributors,12/8/2020,1/30/2021,Business Systems Development Analyst,29.43,32,38.85,322.3224456
+1222,"Pollich, Mante and Christiansen",Major Chemicals,3/27/2020,5/19/2020,Web Designer IV,10.83,26,13.65,322.4789511
+1529,Jones-Beier,Computer Software: Prepackaged Software,7/22/2020,9/13/2020,Legal Assistant,15.67,29,20.21,323.9204264
+1573,Abernathy-Orn,Biotechnology: Commercial Physical & Biological Resarch,8/8/2020,10/1/2020,Web Developer IV,22.78,29,29.39,327.7166541
+1601,Bins Inc,Industrial Machinery/Components,8/17/2020,10/10/2020,Internal Auditor,16.75,45,24.29,328.2663582
+1170,"Buckridge, Rippin and Ankunding",n/a,3/6/2020,4/29/2020,Programmer Analyst IV,15.11,27,19.19,328.6095911
+1613,Kulas Inc,Major Banks,8/21/2020,10/15/2020,Human Resources Assistant IV,23.54,26,29.66,330.6568892
+1294,"Treutel, Schmidt and Heaney",Real Estate Investment Trusts,4/21/2020,6/15/2020,Software Consultant,13.04,39,18.13,330.8500133
+1207,Funk Inc,Major Pharmaceuticals,3/20/2020,5/14/2020,Environmental Tech,11.64,21,14.08,330.8510258
+1676,"McKenzie, Dickens and Conn",n/a,9/11/2020,11/5/2020,Junior Executive,7.42,27,9.42,331.2923668
+1541,"Renner, Ferry and Weimann",Major Pharmaceuticals,7/25/2020,9/18/2020,Quality Control Specialist,22.89,26,28.84,331.3838798
+1045,Padberg Inc,Computer Software: Prepackaged Software,1/15/2020,3/10/2020,Desktop Support Technician,15.56,38,21.47,331.7968842
+1916,Hartmann-O'Keefe,Restaurants,12/5/2020,1/29/2021,Structural Engineer,20.6,29,26.57,332.6565421
+1162,Gleichner and Sons,Major Pharmaceuticals,3/5/2020,4/29/2020,Nuclear Power Engineer,22.69,43,32.45,332.7822991
+1190,Kassulke-Volkman,Biotechnology: In Vitro & In Vivo Diagnostic Substances,3/15/2020,5/9/2020,Cost Accountant,8.43,43,12.05,333.5134812
+1701,Emmerich-Pollich,Semiconductors,9/22/2020,11/16/2020,Help Desk Technician,16.75,21,20.27,333.8398425
+1821,Bayer-Koss,Natural Gas Distribution,11/2/2020,12/27/2020,Staff Scientist,7.42,36,10.09,334.8673783
+1155,Gutkowski LLC,Investment Bankers/Brokers/Service,3/1/2020,4/25/2020,Computer Systems Analyst III,29.71,32,39.22,334.9126599
+1038,Bartoletti-Auer,Major Pharmaceuticals,1/13/2020,3/8/2020,Staff Scientist,28.85,25,36.06,334.940963
+1210,"Stokes, Brekke and Cassin",Medical Electronics,3/21/2020,5/15/2020,Speech Pathologist,11.08,25,13.85,335.1078724
+1475,Keeling-Block,Major Pharmaceuticals,7/1/2020,8/25/2020,Physical Therapy Assistant,28.93,29,37.32,335.2693057
+1763,Hane-Auer,Biotechnology: Biological Products (No Diagnostic Substances),10/13/2020,12/8/2020,Nuclear Power Engineer,8.9,36,12.10,336.0540812
+1450,Pagac-O'Connell,Professional Services,6/21/2020,8/16/2020,Media Manager III,22.17,37,30.37,336.2283827
+1846,"Kuhic, Beier and Kuvalis",Property-Casualty Insurers,11/13/2020,1/8/2021,Research Associate,12.1,42,17.18,336.4185141
+1348,Welch LLC,Savings Institutions,5/10/2020,7/5/2020,Analog Circuit Design manager,24.05,27,30.54,336.4270782
+1391,Hilpert-Kshlerin,Real Estate Investment Trusts,5/24/2020,7/19/2020,Human Resources Manager,16.24,40,22.74,336.4823655
+1234,Schuster-Erdman,Integrated oil Companies,4/3/2020,5/29/2020,Safety Technician II,26.74,24,33.16,336.6781881
+1721,Turcotte and Sons,Real Estate Investment Trusts,9/27/2020,11/22/2020,VP Product Management,22.65,44,32.62,340.369279
+1291,Zulauf-Stark,Telecommunications Equipment,4/19/2020,6/14/2020,Media Manager II,29.03,42,41.22,340.6658189
+1329,"Kuhlman, Stroman and Gislason",Automotive Aftermarket,5/2/2020,6/27/2020,Programmer I,15.66,25,19.58,340.6903032
+1287,Franecki-Satterfield,Catalog/Specialty Distribution,4/18/2020,6/13/2020,Senior Editor,24.08,25,30.10,341.5970824
+1595,Spencer-Weber,Air Freight/Delivery Services,8/15/2020,10/11/2020,Cost Accountant,15.85,27,20.13,343.2768689
+1434,"Cassin, Goldner and Mueller",Major Banks,6/16/2020,8/12/2020,Nurse,8.46,34,11.34,343.3956017
+1456,"Cronin, Becker and Lubowitz",Office Equipment/Supplies/Services,6/25/2020,8/21/2020,Product Engineer,13.51,34,18.10,344.0736907
+1250,Hahn-Robel,Auto Manufacturing,4/6/2020,6/2/2020,Civil Engineer,9.4,30,12.22,345.3872471
+1063,"Muller, Collier and Kozey",Property-Casualty Insurers,1/23/2020,3/20/2020,Health Coach III,13.51,25,16.89,345.620025
+1557,Feest and Sons,Restaurants,7/29/2020,9/24/2020,Associate Professor,16.99,30,22.09,346.207601
+1740,Effertz and Sons,Coal Mining,10/2/2020,11/28/2020,Paralegal,19.23,35,25.96,346.7165971
+1049,Nolan and Sons,Oil & Gas Production,1/16/2020,3/13/2020,General Manager,7.97,36,10.84,347.2488776
+1007,"Krajcik, Grant and Osinski",Marine Transportation,1/3/2020,2/29/2020,Quality Control Specialist,27.65,45,40.09,347.3176903
+1149,Bergnaum and Sons,Restaurants,2/25/2020,4/22/2020,Computer Systems Analyst II,17.86,22,21.79,347.5859652
+1442,Walter LLC,n/a,6/18/2020,8/15/2020,Structural Engineer,19.04,22,23.23,348.6524768
+1504,"Dibbert, Wyman and Wisozk",n/a,7/13/2020,9/9/2020,Analog Circuit Design manager,18.02,24,22.34,349.3442544
+1635,Wisoky-Morar,Banks,8/29/2020,10/26/2020,Health Coach I,19.01,25,23.76,350.1554689
+1105,Schroeder Inc,Oil & Gas Production,2/8/2020,4/6/2020,Data Coordiator,13.55,26,17.07,350.3749923
+1246,"Feest, Schroeder and Ankunding",n/a,4/5/2020,6/2/2020,Senior Quality Engineer,16.29,37,22.32,350.4323363
+1345,Reichert Inc,Real Estate Investment Trusts,5/9/2020,7/6/2020,Software Engineer IV,25.59,22,31.22,350.5873949
+1662,"Witting, Schaden and Raynor",Medical/Dental Instruments,9/8/2020,11/5/2020,Business Systems Development Analyst,15.61,37,21.39,352.4387768
+1638,Witting-Bruen,Real Estate Investment Trusts,8/31/2020,10/28/2020,Media Manager III,21.53,27,27.34,352.5797186
+1729,"Jacobson, Eichmann and Hagenes",Services-Misc. Amusement & Recreation,9/29/2020,11/26/2020,Software Engineer III,28.42,38,39.22,352.7297157
+1351,Green-Farrell,Electrical Products,5/11/2020,7/9/2020,VP Product Management,19.62,40,27.47,354.1246784
+1087,Price-Connelly,Semiconductors,2/1/2020,3/31/2020,Community Outreach Specialist,26.68,26,33.62,354.3692501
+1925,"Collins, Graham and Kreiger",Food Chains,12/7/2020,2/4/2021,Biostatistician IV,23.54,33,31.31,354.7762728
+1929,Denesik LLC,n/a,12/9/2020,2/6/2021,Cost Accountant,20.15,41,28.41,355.129846
+1380,"McGlynn, Moore and Pfeffer",n/a,5/21/2020,7/19/2020,Technical Writer,13.07,27,16.60,355.2511876
+1384,"Douglas, Rogahn and Hodkiewicz",Telecommunications Equipment,5/22/2020,7/20/2020,Senior Financial Analyst,18.32,45,26.56,355.3011993
+1031,Rath LLC,Accident &Health Insurance,1/10/2020,3/9/2020,Tax Accountant,14.2,25,17.75,355.6565876
+1911,Swaniawski Group,Major Chemicals,12/3/2020,1/31/2021,Analog Circuit Design manager,16.5,44,23.76,357.1151797
+1839,"Kling, Auer and Pouros",Clothing/Shoe/Accessory Stores,11/10/2020,1/8/2021,Account Representative I,23.7,43,33.89,357.2900228
+1426,"Murphy, Jacobs and Braun",n/a,6/12/2020,8/10/2020,Senior Quality Engineer,17.09,37,23.41,357.3909268
+1765,"Hintz, Lang and Prosacco",n/a,10/14/2020,12/12/2020,VP Sales,16.19,29,20.89,359.3039802
+1859,Conroy LLC,Investment Bankers/Brokers/Service,11/17/2020,1/15/2021,Environmental Specialist,8.3,26,10.46,359.4728714
+1073,Brakus Group,Major Chemicals,1/26/2020,3/25/2020,Administrative Assistant IV,7.85,32,10.36,359.8055287
+1327,Wyman and Sons,Telecommunications Equipment,5/2/2020,7/1/2020,Media Manager IV,23.01,30,29.91,361.7927478
+1061,Keebler Group,Industrial Machinery/Components,1/23/2020,3/23/2020,Graphic Designer,27.77,28,35.55,362.1338074
+1214,"MacGyver, Marvin and Prosacco",Real Estate Investment Trusts,3/22/2020,5/21/2020,Safety Technician IV,24.6,45,35.67,363.3597983
+1668,"Kutch, Cartwright and O'Conner",Restaurants,9/10/2020,11/9/2020,Account Coordinator,26.7,23,32.84,364.9051226
+1860,Cronin-Herzog,Major Banks,11/17/2020,1/16/2021,Systems Administrator II,28.61,28,36.62,365.7875933
+1312,Dicki Group,Industrial Machinery/Components,4/25/2020,6/25/2020,Recruiting Manager,7.33,27,9.31,366.8402376
+1137,Casper-Hilpert,Real Estate Investment Trusts,2/21/2020,4/22/2020,Human Resources Manager,10.28,24,12.75,367.3106227
+1395,"Murphy, Koelpin and Metz",n/a,5/26/2020,7/26/2020,Mechanical Systems Engineer,14.09,23,17.33,367.7869619
+1461,"Wisozk, Keebler and Abshire",Advertising,6/26/2020,8/26/2020,Teacher,12.65,23,15.56,369.4758614
+1022,"Towne, Wolf and Satterfield",Real Estate Investment Trusts,1/8/2020,3/9/2020,Analyst Programmer,11.55,23,14.21,370.2458003
+1337,"Hane, Gerlach and Shanahan",Telecommunications Equipment,5/5/2020,7/5/2020,Paralegal,16.75,28,21.44,370.5531603
+1369,Orn-Kuhn,Real Estate Investment Trusts,5/16/2020,7/16/2020,Assistant Media Planner,17.18,23,21.13,370.8398151
+1785,Will-Greenholt,n/a,10/20/2020,12/20/2020,Statistician I,16.47,21,19.93,371.4351518
+1281,Leffler LLC,Real Estate Investment Trusts,4/17/2020,6/17/2020,Analyst Programmer,17,25,21.25,371.6635174
+1546,Buckridge-Blanda,Medical Specialities,7/26/2020,9/25/2020,Structural Analysis Engineer,28.31,27,35.95,371.8840064
+1328,Langosh and Sons,Electric Utilities: Central,5/2/2020,7/3/2020,Electrical Engineer,17.49,33,23.26,372.2052502
+1203,Hackett Group,Telecommunications Equipment,3/19/2020,5/20/2020,Speech Pathologist,14.58,27,18.52,372.2512403
+1616,Schaefer-Littel,Savings Institutions,8/23/2020,10/24/2020,Environmental Specialist,9.28,38,12.81,372.3289246
+1066,Lebsack-Okuneva,Commercial Banks,1/25/2020,3/27/2020,Nuclear Power Engineer,7.58,25,9.48,372.5866277
+1376,Gottlieb and Sons,Industrial Machinery/Components,5/19/2020,7/20/2020,Administrative Officer,18.35,29,23.67,372.7237191
+1198,"Spencer, Schaefer and Fisher",Electrical Products,3/18/2020,5/19/2020,Social Worker,25.04,29,32.30,372.9452629
+1753,"Jast, Mayert and Leannon",Major Chemicals,10/10/2020,12/11/2020,Research Associate,15.57,21,18.84,373.3396293
+1691,Ryan-Bayer,Major Pharmaceuticals,9/17/2020,11/18/2020,Dental Hygienist,23.93,42,33.98,373.7061302
+1817,DuBuque Group,Auto Parts:O.E.M.,10/31/2020,1/1/2021,Mechanical Systems Engineer,27.09,27,34.40,373.8325753
+1980,"Bailey, Wilderman and Ruecker",Home Furnishings,12/26/2020,2/26/2021,Human Resources Assistant III,22.06,32,29.12,374.3053897
+1451,Ernser and Sons,Industrial Machinery/Components,6/22/2020,8/23/2020,Human Resources Manager,18.68,41,26.34,374.5220288
+1368,Bergnaum Group,Containers/Packaging,5/15/2020,7/16/2020,Administrative Officer,9.96,37,13.65,374.7118622
+1485,"Lockman, Jacobs and Ferry",Property-Casualty Insurers,7/4/2020,9/4/2020,Nurse,9.23,30,12.00,377.4947588
+1001,Harris and Sons,Property-Casualty Insurers,1/1/2020,3/4/2020,Automation Specialist I,19.98,29,25.77,378.4144692
+1479,Mertz Group,Real Estate Investment Trusts,7/2/2020,9/3/2020,Junior Executive,7.56,20,9.07,378.7517216
+1467,Bahringer and Sons,Office Equipment/Supplies/Services,6/27/2020,8/29/2020,Operator,24.98,29,32.22,379.344988
+1029,Okuneva-Howell,Major Pharmaceuticals,1/10/2020,3/13/2020,Senior Editor,18.43,32,24.33,379.684629
+1917,Schmeler-Gutmann,n/a,12/6/2020,2/7/2021,Chief Design Engineer,8.44,42,11.98,379.813258
+1231,"Weber, Terry and Rutherford",Precious Metals,3/31/2020,6/2/2020,Financial Analyst,28.65,24,35.53,380.6722424
+1050,Hane LLC,Semiconductors,1/16/2020,3/19/2020,General Manager,28.99,25,36.24,381.0503668
+1270,Considine-Gleichner,n/a,4/14/2020,6/16/2020,Account Executive,16.7,38,23.05,381.3491493
+1804,Wiza LLC,Recreational Products/Toys,10/26/2020,12/28/2020,Geologist IV,7.82,22,9.54,382.109089
+1725,"Runolfsson, Aufderhar and Ritchie",Medical Specialities,9/29/2020,12/1/2020,Data Coordiator,22.94,34,30.74,382.1494993
+1652,"Goldner, Murazik and Kassulke",Electrical Products,9/5/2020,11/7/2020,Account Executive,27.25,23,33.52,382.7607403
+1516,Wisoky-Shanahan,Industrial Machinery/Components,7/18/2020,9/19/2020,Geological Engineer,8.65,37,11.85,383.4278232
+1132,Hackett Inc,Construction/Ag Equipment/Trucks,2/18/2020,4/21/2020,Biostatistician III,22.41,28,28.68,383.7495608
+1071,Boyle LLC,Property-Casualty Insurers,1/26/2020,3/29/2020,Administrative Officer,27.53,27,34.96,383.7732591
+1047,Vandervort-Muller,Radio And Television Broadcasting And Communications Equipment,1/16/2020,3/20/2020,VP Quality Control,16.92,43,24.20,384.1409865
+1481,Mueller and Sons,Major Pharmaceuticals,7/2/2020,9/4/2020,VP Quality Control,29.93,41,42.20,385.6623933
+1975,Watsica-Price,n/a,12/26/2020,2/28/2021,Staff Scientist,29.47,23,36.25,385.7374866
+1838,"Deckow, Kemmer and McLaughlin",Banks,11/10/2020,1/13/2021,Senior Cost Accountant,20.8,26,26.21,385.7617609
+1875,Witting LLC,Multi-Sector Companies,11/21/2020,1/24/2021,Senior Sales Associate,7.37,23,9.07,385.8009259
+1604,Wisozk-Ritchie,Consumer: Greeting Cards,8/19/2020,10/22/2020,VP Sales,26.77,43,38.28,386.2678564
+1264,McCullough-Hoppe,n/a,4/13/2020,6/16/2020,Senior Financial Analyst,18.91,25,23.64,388.0554614
+1468,Larson-Kutch,Computer Software: Prepackaged Software,6/28/2020,8/31/2020,Computer Systems Analyst I,16.81,35,22.69,389.840183
+1314,Veum-Hegmann,Biotechnology: Commercial Physical & Biological Resarch,4/26/2020,6/30/2020,Office Assistant IV,24.47,42,34.75,390.0470859
+1667,Howe LLC,Specialty Foods,9/9/2020,11/13/2020,Software Test Engineer I,19.18,20,23.02,391.2881752
+1600,Boyle Inc,Industrial Machinery/Components,8/17/2020,10/21/2020,Director of Sales,25.95,25,32.44,391.4336437
+1238,"Ziemann, Vandervort and King",Investment Managers,4/4/2020,6/8/2020,Food Chemist,19.5,40,27.30,391.7144021
+1963,"Harris, Howell and Waelchi",Oil Refining/Marketing,12/20/2020,2/23/2021,Assistant Media Planner,14.76,28,18.89,391.9566021
+1153,Crist Inc,Medical/Nursing Services,2/27/2020,5/2/2020,Staff Accountant IV,29.5,40,41.30,392.5365334
+1302,Cruickshank LLC,Property-Casualty Insurers,4/23/2020,6/27/2020,Technical Writer,17.81,38,24.58,393.5925912
+1749,Hoeger-Berge,Biotechnology: Biological Products (No Diagnostic Substances),10/7/2020,12/11/2020,Design Engineer,29.43,25,36.79,394.5026035
+1833,Ryan LLC,Real Estate Investment Trusts,11/7/2020,1/11/2021,GIS Technical Architect,29.56,27,37.54,394.9325921
+1751,"Keebler, Steuber and Mann",Oil & Gas Production,10/8/2020,12/12/2020,Biostatistician II,26.85,36,36.52,395.0516795
+1372,"Kunde, Marvin and Kshlerin",Computer Software: Prepackaged Software,5/17/2020,7/21/2020,Account Coordinator,11,39,15.29,395.3409023
+1702,Considine-Dare,n/a,9/22/2020,11/26/2020,Community Outreach Specialist,21.65,26,27.28,395.7301303
+1008,Feeney Group,Building operators,1/3/2020,3/9/2020,Product Engineer,22.95,21,27.77,396.5104235
+1719,"Muller, Bernier and Lindgren",Natural Gas Distribution,9/26/2020,12/1/2020,Analog Circuit Design manager,20.66,20,24.79,397.11437
+1079,Roberts-Maggio,n/a,1/29/2020,4/4/2020,Mechanical Systems Engineer,10.34,29,13.34,397.3396512
+1359,"Hand, Corkery and Boyer",n/a,5/12/2020,7/17/2020,Environmental Tech,22.6,40,31.64,397.3501951
+1455,Abernathy and Sons,Clothing/Shoe/Accessory Stores,6/24/2020,8/29/2020,Civil Engineer,17.57,31,23.02,397.5180125
+1716,Kassulke-Wunsch,Biotechnology: Electromedical & Electrotherapeutic Apparatus,9/26/2020,12/1/2020,Account Coordinator,18.8,22,22.94,398.1256133
+1685,Johnston-Dickens,Rental/Leasing Companies,9/15/2020,11/20/2020,Analyst Programmer,21.82,45,31.64,398.2159021
+1412,Kihn-Hansen,"Computer Software: Programming, Data Processing",6/5/2020,8/10/2020,Librarian,17.09,21,20.68,398.2288846
+1579,Osinski-Hayes,EDP Services,8/10/2020,10/15/2020,Professor,11.24,45,16.30,399.3285378
+1252,"Kohler, Johnson and Von",Semiconductors,4/7/2020,6/12/2020,Media Manager III,28.13,26,35.44,399.3862745
+1627,Muller-Kuhic,Computer Software: Prepackaged Software,8/28/2020,11/2/2020,Systems Administrator I,25.16,40,35.22,399.6526261
+1965,"Metz, Wehner and Von",Industrial Machinery/Components,12/20/2020,2/24/2021,GIS Technical Architect,20.8,32,27.46,399.6997723
+1803,Hackett-Sawayn,n/a,10/26/2020,12/31/2020,Product Engineer,24.3,30,31.59,401.1458219
+1981,"Kub, Cruickshank and Hoppe",n/a,12/26/2020,3/3/2021,Staff Accountant IV,19.39,42,27.53,403.8326548
+1794,"Torphy, Kemmer and Gleason",Business Services,10/23/2020,12/29/2020,Senior Developer,17.19,22,20.97,404.0297342
+1024,Kunze Inc,n/a,1/8/2020,3/15/2020,GIS Technical Architect,16.63,27,21.12,404.1443958
+1089,Prosacco and Sons,n/a,2/2/2020,4/9/2020,Electrical Engineer,8.74,33,11.62,404.9121817
+1182,"D'Amore, Walsh and Cormier",Business Services,3/11/2020,5/17/2020,Business Systems Development Analyst,17.35,36,23.60,405.1929823
+1148,"Considine, Labadie and Abernathy",Major Banks,2/25/2020,5/2/2020,Civil Engineer,7.79,23,9.58,405.6354077
+1934,Brakus Group,n/a,12/10/2020,2/15/2021,Sales Associate,17.55,45,25.45,407.9539495
+1146,"Cronin, Lesch and Legros",Major Pharmaceuticals,2/25/2020,5/3/2020,Product Engineer,15.29,22,18.65,408.2921484
+1714,Baumbach-Toy,n/a,9/24/2020,12/1/2020,Software Test Engineer I,22.52,28,28.83,409.287404
+1802,Funk Group,n/a,10/25/2020,1/1/2021,Database Administrator II,21.26,20,25.51,410.0604074
+1513,Harvey Inc,Major Banks,7/17/2020,9/23/2020,Research Assistant IV,22.62,20,27.14,411.1023994
+1474,Reilly Inc,Electrical Products,7/1/2020,9/7/2020,Editor,26.57,25,33.21,411.1052017
+1176,"Green, Borer and Mills",Other Specialty Stores,3/8/2020,5/15/2020,General Manager,17.11,34,22.93,411.1205592
+1666,Connelly-Hansen,Major Banks,9/9/2020,11/16/2020,VP Quality Control,20.68,40,28.95,411.4501622
+1381,Auer-Wiegand,n/a,5/21/2020,7/28/2020,Quality Engineer,9.36,32,12.36,411.6596721
+1166,"Thiel, Ferry and Eichmann",Real Estate Investment Trusts,3/6/2020,5/13/2020,Software Consultant,17.16,33,22.82,411.7639709
+1549,Ritchie and Sons,Real Estate,7/27/2020,10/3/2020,Human Resources Assistant IV,11.16,31,14.62,412.849998
+1429,"Kulas, Toy and Bogisich",Oil & Gas Production,6/13/2020,8/20/2020,Research Associate,19.78,43,28.29,413.4868164
+1304,Zieme-Schumm,Real Estate Investment Trusts,4/23/2020,6/30/2020,Professor,16.52,33,21.97,413.7169634
+1212,"Barton, Ledner and Volkman",Business Services,3/22/2020,5/30/2020,Assistant Professor,23.02,31,30.16,414.7696459
+1140,"Rowe, Deckow and Rempel",Medical Specialities,2/22/2020,5/1/2020,Environmental Specialist,16.02,36,21.79,414.9172784
+1741,Quitzon-Schulist,n/a,10/2/2020,12/10/2020,Research Associate,14.07,43,20.12,415.0079156
+1874,Ernser-Kuhn,Commercial Banks,11/21/2020,1/29/2021,Recruiting Manager,27.23,38,37.58,415.6488533
+1856,"Reinger, Schroeder and Turcotte",n/a,11/17/2020,1/25/2021,GIS Technical Architect,9.63,28,12.33,416.341525
+1904,Reichel-Nienow,n/a,11/30/2020,2/7/2021,Dental Hygienist,26.55,39,36.90,418.5010096
+1278,"Bergstrom, Wunsch and Moore",Real Estate Investment Trusts,4/16/2020,6/24/2020,Teacher,11.98,40,16.77,419.2679373
+1610,"Crooks, Swift and Balistreri",Integrated oil Companies,8/20/2020,10/28/2020,Programmer III,8.99,45,13.04,419.6056942
+1119,Labadie LLC,Television Services,2/13/2020,4/23/2020,Structural Engineer,19.47,45,28.23,420.1837146
+1544,"Schmeler, Legros and Beier",Business Services,7/26/2020,10/4/2020,Nuclear Power Engineer,10.96,29,14.14,421.4802358
+1355,Kub Group,Major Banks,5/12/2020,7/21/2020,Accountant II,11.69,35,15.78,422.0148486
+1781,"Gibson, Jerde and Stokes",Oil Refining/Marketing,10/20/2020,12/29/2020,Account Coordinator,8.31,44,11.97,422.523102
+1452,Hyatt Group,Electric Utilities: Central,6/22/2020,8/31/2020,Financial Analyst,21.11,24,26.18,422.8623893
+1844,"Botsford, Hoppe and Greenholt",Containers/Packaging,11/12/2020,1/21/2021,Account Executive,29.6,34,39.66,425.4097631
+1520,Ferry and Sons,n/a,7/19/2020,9/27/2020,Administrative Officer,12.32,32,16.26,425.6489526
+1496,Williamson-Feil,EDP Services,7/7/2020,9/15/2020,Junior Executive,13.89,39,19.31,425.8064431
+1524,Rosenbaum-Little,Food Chains,7/20/2020,9/29/2020,Structural Engineer,11.97,30,15.56,426.1693889
+1760,"Schiller, Okuneva and Farrell",n/a,10/12/2020,12/22/2020,Design Engineer,26.47,42,37.59,426.4305791
+1923,"Yost, Towne and Paucek",Computer Software: Prepackaged Software,12/7/2020,2/16/2021,Civil Engineer,18.49,45,26.81,426.7887639
+1798,"Zemlak, Von and McKenzie",Forest Products,10/25/2020,1/4/2021,Business Systems Development Analyst,17.14,31,22.45,428.293659
+1330,Marks-Frami,Major Banks,5/3/2020,7/13/2020,Staff Accountant III,9.57,37,13.11,429.7125533
+1366,Reynolds Inc,Telecommunications Equipment,5/15/2020,7/25/2020,Director of Sales,8.44,35,11.39,430.0179587
+1548,Towne-Hilpert,n/a,7/27/2020,10/6/2020,Web Developer IV,22.39,29,28.88,430.786027
+1320,Gleichner LLC,Steel/Iron Ore,4/29/2020,7/9/2020,Help Desk Operator,14.65,21,17.73,431.6489275
+1876,"Dooley, Howell and Emard",Environmental Services,11/23/2020,2/3/2021,Librarian,26.58,25,33.23,433.5880666
+1508,Streich LLC,Real Estate Investment Trusts,7/14/2020,9/24/2020,Recruiter,11.06,31,14.49,433.9107324
+1510,"Sanford, Langworth and Boehm",n/a,7/15/2020,9/25/2020,Editor,22.46,22,27.40,434.152674
+1771,Rowe-O'Connell,n/a,10/16/2020,12/27/2020,Electrical Engineer,20.51,27,26.05,434.2899127
+1147,Brakus LLC,n/a,2/25/2020,5/7/2020,Software Test Engineer II,14.4,34,19.30,434.7508303
+1591,Bailey-Mayert,n/a,8/14/2020,10/25/2020,Help Desk Technician,19.09,37,26.15,434.8464141
+1098,Bernhard and Sons,Broadcasting,2/5/2020,4/17/2020,Recruiting Manager,28.22,35,38.10,435.6006631
+1726,"Nader, Berge and Kohler",Property-Casualty Insurers,9/29/2020,12/10/2020,Staff Scientist,9.87,29,12.73,437.0340924
+1644,Feil-Barrows,Industrial Machinery/Components,9/3/2020,11/14/2020,Associate Professor,23.42,37,32.09,437.5678766
+1323,Fay Group,Major Banks,5/1/2020,7/13/2020,Marketing Manager,26.97,44,38.84,438.7934305
+1488,"Bechtelar, Dickens and Rempel",Computer Software: Prepackaged Software,7/4/2020,9/15/2020,Sales Associate,13.12,42,18.63,439.685323
+1556,Runolfsdottir-Kihn,Electric Utilities: Central,7/29/2020,10/10/2020,Recruiting Manager,15.85,30,20.61,439.6913401
+1593,Zemlak-Corwin,Major Pharmaceuticals,8/14/2020,10/26/2020,Structural Analysis Engineer,25.19,25,31.49,439.9659458
+1739,"O'Hara, Herzog and Hauck",Major Pharmaceuticals,10/2/2020,12/14/2020,GIS Technical Architect,15.19,45,22.03,441.3144242
+1791,"Schultz, Hudson and Keebler",Industrial Machinery/Components,10/22/2020,1/3/2021,Recruiter,16.99,41,23.96,442.1635315
+1239,Kohler Group,Precious Metals,4/4/2020,6/16/2020,Editor,14.2,33,18.89,442.4482826
+1290,Balistreri and Sons,Industrial Machinery/Components,4/19/2020,7/2/2020,Design Engineer,29.36,36,39.93,445.0440775
+1051,Lakin-Lemke,Real Estate Investment Trusts,1/17/2020,3/31/2020,Financial Analyst,25.45,27,32.32,445.6000151
+1957,"Crona, Waelchi and Abbott",Telecommunications Equipment,12/18/2020,3/2/2021,Compensation Analyst,8.06,29,10.40,445.687649
+1401,"Bode, Klocko and Johns",Auto Manufacturing,5/31/2020,8/13/2020,Software Consultant,22.66,44,32.63,447.7324159
+1562,Powlowski Inc,Other Consumer Services,8/3/2020,10/16/2020,Design Engineer,17.42,35,23.52,448.0057319
+1651,Senger-Turner,Semiconductors,9/5/2020,11/18/2020,Accountant IV,11.74,39,16.32,449.3857834
+1649,"O'Reilly, Durgan and Quitzon",Clothing/Shoe/Accessory Stores,9/4/2020,11/17/2020,Senior Quality Engineer,20.59,22,25.12,449.686072
+1280,Block-Boehm,Telecommunications Equipment,4/17/2020,6/30/2020,Account Executive,11.91,35,16.08,449.6934567
+1183,"Botsford, Roberts and Conn",Railroads,3/11/2020,5/24/2020,Structural Engineer,13.53,35,18.27,449.9133787
+1034,Wolf-Mann,Biotechnology: Commercial Physical & Biological Resarch,1/12/2020,3/26/2020,Web Developer IV,12.5,20,15.00,449.9176794
+1887,Ritchie-Botsford,n/a,11/26/2020,2/9/2021,Senior Editor,12.09,42,17.17,450.3369905
+1093,Terry Inc,Power Generation,2/3/2020,4/18/2020,Senior Sales Associate,22.25,27,28.26,451.0140322
+1208,Powlowski Group,Real Estate Investment Trusts,3/21/2020,6/4/2020,Physical Therapy Assistant,10.19,32,13.45,451.7963879
+1999,"Fay, Rosenbaum and Johns",Diversified Commercial Services,12/30/2020,3/15/2021,Sales Associate,17.88,44,25.75,452.86663
+1720,Morar-Schulist,Property-Casualty Insurers,9/27/2020,12/11/2020,Paralegal,8.81,39,12.25,452.8869481
+1165,Koepp Group,n/a,3/6/2020,5/20/2020,Engineer I,11,42,15.62,453.5279553
+1336,"Gaylord, Medhurst and Waelchi",Multi-Sector Companies,5/5/2020,7/19/2020,Automation Specialist I,28.86,25,36.08,454.6833552
+1648,"Funk, O'Conner and Rogahn",Computer Software: Prepackaged Software,9/3/2020,11/17/2020,Environmental Specialist,24.43,25,30.54,454.942829
+1737,"Stokes, Hirthe and King",Semiconductors,10/2/2020,12/16/2020,Sales Associate,14.54,43,20.79,455.835867
+1142,Schmitt-Goldner,Major Banks,2/24/2020,5/10/2020,Recruiter,8.27,27,10.50,457.0234893
+1272,"Marquardt, McCullough and Greenfelder",n/a,4/14/2020,6/29/2020,Design Engineer,19.37,37,26.54,458.0091199
+1011,Douglas-Hintz,Other Consumer Services,1/4/2020,3/20/2020,Software Test Engineer II,16.78,22,20.47,461.5822912
+1933,Hahn-Kerluke,Power Generation,12/10/2020,2/25/2021,Business Systems Development Analyst,13.58,25,16.98,465.2724515
+1944,Satterfield-Conn,Major Banks,12/15/2020,3/2/2021,Environmental Tech,17.52,43,25.05,465.4317102
+1242,Cummerata-Beer,Steel/Iron Ore,4/5/2020,6/21/2020,Environmental Specialist,23.24,42,33.00,465.5864644
+1899,Gislason-Sporer,n/a,11/28/2020,2/13/2021,Financial Analyst,27.06,25,33.83,465.7923517
+1459,Metz-Spinka,n/a,6/26/2020,9/11/2020,Mechanical Systems Engineer,23.48,33,31.23,466.2648964
+1710,Hessel-D'Amore,Major Pharmaceuticals,9/24/2020,12/10/2020,Analyst Programmer,20.73,20,24.88,466.3731735
+1697,"Altenwerth, Kshlerin and Turner",Major Banks,9/20/2020,12/6/2020,General Manager,16.99,26,21.41,466.8517216
+1921,"Bednar, Greenholt and Ledner",Precious Metals,12/7/2020,2/22/2021,Product Engineer,7.58,27,9.63,467.1117713
+1834,Moore-Gottlieb,n/a,11/8/2020,1/24/2021,Web Designer I,10.81,20,12.97,467.374615
+1263,"Runolfsson, Hintz and Russel",Ordnance And Accessories,4/12/2020,6/28/2020,Design Engineer,22.6,44,32.54,467.8068108
+1457,Dare Group,Diversified Commercial Services,6/25/2020,9/11/2020,Environmental Specialist,22.72,36,30.90,468.2325629
+1967,"Jaskolski, Rau and Steuber",Home Furnishings,12/21/2020,3/9/2021,Librarian,14.76,25,18.45,468.389563
+1889,Koss-Marks,n/a,11/26/2020,2/12/2021,Community Outreach Specialist,27.54,21,33.32,469.151203
+1363,Hermiston LLC,n/a,5/14/2020,7/31/2020,Financial Analyst,11.82,33,15.72,469.1835427
+1526,Gottlieb and Sons,n/a,7/21/2020,10/7/2020,Research Nurse,23.95,35,32.33,470.4517181
+1742,Parisian Inc,Business Services,10/2/2020,12/20/2020,Help Desk Technician,21.3,25,26.63,474.0583276
+1383,Bednar Inc,Metal Fabrications,5/22/2020,8/9/2020,Compensation Analyst,18.91,33,25.15,474.1895557
+1926,"Bradtke, Kunze and Kling",n/a,12/8/2020,2/25/2021,Electrical Engineer,7.56,41,10.66,474.4891245
+1491,Ziemann-Brekke,Commercial Banks,7/5/2020,9/22/2020,Analyst Programmer,20.27,33,26.96,476.2698254
+1503,Monahan-Effertz,Package Goods/Cosmetics,7/12/2020,9/29/2020,Clinical Specialist,8.11,22,9.89,476.5613272
+1654,Von-Schuster,Food Distributors,9/5/2020,11/23/2020,Senior Financial Analyst,28.6,22,34.89,476.6843111
+1493,Marvin-Kovacek,Metal Fabrications,7/6/2020,9/23/2020,Assistant Manager,12.62,32,16.66,477.0564865
+1895,"Miller, Gusikowski and Bayer",Major Banks,11/27/2020,2/14/2021,Social Worker,27.25,45,39.51,477.3410237
+1986,Bayer and Sons,n/a,12/27/2020,3/16/2021,Product Engineer,22.02,43,31.49,477.4884852
+1296,Larson-Kerluke,n/a,4/22/2020,7/10/2020,Biostatistician IV,14.81,36,20.14,478.4929626
+1650,Steuber Group,n/a,9/4/2020,11/22/2020,Product Engineer,29.28,35,39.53,478.8006851
+1058,Konopelski and Sons,Oil & Gas Production,1/20/2020,4/8/2020,Dental Hygienist,8.7,24,10.79,479.5293541
+1540,O'Keefe-Oberbrunner,Plastic Products,7/25/2020,10/13/2020,Statistician II,15.93,44,22.94,480.2982401
+1522,Russel-Hodkiewicz,Oilfield Services/Equipment,7/20/2020,10/8/2020,Actuary,25.07,34,33.59,480.7697083
+1983,Rolfson-Hickle,n/a,12/27/2020,3/17/2021,Nurse,25.43,22,31.02,480.8681571
+1169,Botsford-Rempel,n/a,3/6/2020,5/25/2020,GIS Technical Architect,20.25,45,29.36,481.3094947
+1326,"Wiegand, Pfannerstill and Treutel",Homebuilding,5/1/2020,7/20/2020,Account Representative I,12.2,25,15.25,481.7055311
+1102,Sanford-Balistreri,Semiconductors,2/7/2020,4/27/2020,Database Administrator III,14.46,35,19.52,482.1390884
+1946,Wolff LLC,n/a,12/15/2020,3/5/2021,Financial Advisor,11.81,29,15.23,482.533534
+1762,Stanton-Yundt,Major Pharmaceuticals,10/13/2020,1/1/2021,Research Associate,16.23,22,19.80,483.4874776
+1075,Lemke-Lindgren,Miscellaneous,1/27/2020,4/16/2020,Staff Accountant III,15.91,20,19.09,484.28522
+1492,"Boyer, Keeling and Raynor",n/a,7/5/2020,9/24/2020,Recruiting Manager,18.75,22,22.88,487.9213661
+1298,Buckridge Group,n/a,4/22/2020,7/12/2020,Marketing Manager,10.24,23,12.60,488.3065509
+1947,"Wehner, Connelly and Durgan",Major Banks,12/15/2020,3/6/2021,Media Manager IV,17.1,40,23.94,488.9401032
+1952,Waters-Stark,Marine Transportation,12/17/2020,3/8/2021,Geological Engineer,9.84,31,12.89,489.3814557
+1536,Monahan Group,Business Services,7/23/2020,10/12/2020,Junior Executive,22.49,45,32.61,490.1687003
+1480,Deckow LLC,n/a,7/2/2020,9/21/2020,Pharmacist,23.79,40,33.31,491.1188281
+1072,Huels-Koelpin,Rental/Leasing Companies,1/26/2020,4/16/2020,Editor,7.87,36,10.70,491.6292319
+1343,"Bartell, Schmitt and Stroman",Commercial Banks,5/8/2020,7/28/2020,Electrical Engineer,8.51,45,12.34,491.8956035
+1982,Hermiston LLC,Real Estate,12/26/2020,3/18/2021,Speech Pathologist,19.89,26,25.06,492.0718132
+1453,Kling-Reichert,Real Estate Investment Trusts,6/23/2020,9/13/2020,Junior Executive,13.34,30,17.34,492.209403
+1295,"Fahey, Flatley and Robel",Military/Government/Technical,4/21/2020,7/12/2020,Nurse Practicioner,9.15,33,12.17,493.1539901
+1202,"Stokes, Mitchell and Goldner",Industrial Specialties,3/19/2020,6/9/2020,VP Marketing,24.74,39,34.39,493.1641195
+1125,Kautzer-Hegmann,n/a,2/14/2020,5/6/2020,Civil Engineer,10.89,40,15.25,493.8506664
+1398,Cummings-Schamberger,Packaged Foods,5/30/2020,8/20/2020,Associate Professor,17.84,35,24.08,494.0052659
+1289,"Stroman, Borer and Adams",n/a,4/19/2020,7/10/2020,Internal Auditor,9.27,33,12.33,494.4653497
+1186,"Kozey, Braun and Tremblay",Major Chemicals,3/12/2020,6/2/2020,Mechanical Systems Engineer,27.18,37,37.24,494.6593483
+1010,MacGyver-Streich,n/a,1/3/2020,3/25/2020,Business Systems Development Analyst,17.54,33,23.33,494.7121764
+1560,Berge Inc,Major Pharmaceuticals,7/31/2020,10/21/2020,Occupational Therapist,28.18,31,36.92,497.3236798
+1472,Trantow-Gislason,Electrical Products,6/29/2020,9/19/2020,Executive Secretary,8.8,32,11.62,497.9504921
+1539,Leffler Inc,Telecommunications Equipment,7/24/2020,10/15/2020,Pharmacist,22.54,33,29.98,498.9693992
+1909,Rohan-Steuber,n/a,12/2/2020,2/23/2021,Electrical Engineer,17.47,32,23.06,499.0246184
+1837,"Reilly, Blanda and Grimes",n/a,11/9/2020,1/31/2021,Senior Cost Accountant,18.54,43,26.51,499.1368978
+1316,"Hauck, West and Wuckert",n/a,4/27/2020,7/19/2020,Software Test Engineer I,11.79,26,14.86,499.6590168
+1722,Wisozk LLC,Department/Specialty Retail Stores,9/27/2020,12/19/2020,Occupational Therapist,27.52,25,34.40,499.7589256
+1046,Robel-Ferry,Investment Managers,1/16/2020,4/8/2020,Developer III,21.94,28,28.08,500.6406837
+1444,"Franecki, Boehm and Spinka",Metal Fabrications,6/19/2020,9/10/2020,Project Manager,9.63,44,13.87,501.1904524
+1274,Hodkiewicz-Koepp,Clothing/Shoe/Accessory Stores,4/15/2020,7/7/2020,Junior Executive,24.1,43,34.46,503.1737392
+1555,Emard Group,Real Estate,7/29/2020,10/20/2020,Office Assistant III,18.28,32,24.13,503.8448296
+1154,"Moen, Marks and Reynolds",Major Pharmaceuticals,2/29/2020,5/23/2020,Geological Engineer,17.47,42,24.81,504.67859
+1495,Kunze Group,EDP Services,7/7/2020,9/29/2020,Programmer II,24.36,41,34.35,505.182237
+1340,Douglas LLC,Power Generation,5/6/2020,7/29/2020,Pharmacist,27.7,26,34.90,505.2425259
+1977,"Kihn, Konopelski and Swift",Hospital/Nursing Management,12/26/2020,3/20/2021,Database Administrator III,22.31,36,30.34,505.4728404
+1113,"Orn, Lynch and Kutch",Major Pharmaceuticals,2/11/2020,5/5/2020,Nurse Practicioner,10.13,22,12.36,505.5846169
+1282,"Donnelly, Turcotte and Herzog",Medical/Dental Instruments,4/17/2020,7/10/2020,Senior Editor,17.32,20,20.78,505.9128979
+1692,Osinski Inc,n/a,9/18/2020,12/11/2020,Human Resources Manager,26.31,29,33.94,505.9812284
+1592,Stark-Mann,Other Specialty Stores,8/14/2020,11/6/2020,Structural Engineer,21.66,37,29.67,507.7843674
+1724,"Murazik, Keebler and Hintz",Agricultural Chemicals,9/28/2020,12/21/2020,Programmer III,28.52,43,40.78,507.9104528
+1563,Predovic and Sons,Major Banks,8/3/2020,10/26/2020,VP Product Management,21.67,24,26.87,508.0920264
+1064,Wisozk and Sons,n/a,1/24/2020,4/17/2020,Recruiting Manager,12.96,39,18.01,508.7807588
+1711,Hane Group,Beverages (Production/Distribution),9/24/2020,12/17/2020,Information Systems Manager,22.57,29,29.12,509.9398271
+1678,Gerlach-Schaefer,Major Pharmaceuticals,9/12/2020,12/6/2020,VP Accounting,29.42,29,37.95,511.0918264
+1408,Runolfsson and Sons,Savings Institutions,6/5/2020,8/29/2020,Accountant I,13.73,34,18.40,511.2227262
+1004,"Hand, Kilback and Beatty",Trucking Freight/Courier Services,1/2/2020,3/27/2020,VP Quality Control,11.59,32,15.30,511.3009921
+1321,"D'Amore, Douglas and Moen",Hospital/Nursing Management,4/30/2020,7/24/2020,Executive Secretary,20.77,33,27.62,511.6941276
+1436,Weissnat LLC,Other Consumer Services,6/16/2020,9/9/2020,GIS Technical Architect,21.69,38,29.93,512.1601581
+1499,Feil Inc,Major Pharmaceuticals,7/8/2020,10/1/2020,Administrative Officer,20.46,40,28.64,513.5310398
+1341,Durgan-Bartell,Marine Transportation,5/7/2020,7/31/2020,Junior Executive,10.36,40,14.50,514.6840882
+1470,Wilderman-Crooks,Precious Metals,6/28/2020,9/21/2020,Professor,19.8,40,27.72,515.654177
+1688,Beier LLC,Construction/Ag Equipment/Trucks,9/16/2020,12/11/2020,Sales Associate,29.2,27,37.08,517.1546102
+1101,Lind-Kovacek,Natural Gas Distribution,2/7/2020,5/3/2020,General Manager,18.56,30,24.13,517.40878
+1897,Swift-Johnston,Fluid Controls,11/28/2020,2/22/2021,Account Representative I,11.91,43,17.03,519.055571
+1814,Barrows and Sons,Auto Parts:O.E.M.,10/30/2020,1/24/2021,Budget/Accounting Analyst III,17.49,37,23.96,520.1855878
+1193,"Shanahan, Dickinson and Farrell",n/a,3/16/2020,6/11/2020,Nurse,17.14,25,21.43,522.0276119
+1184,Wunsch-VonRueden,Other Specialty Stores,3/11/2020,6/6/2020,Statistician I,24.53,35,33.12,522.9514423
+1695,Cartwright-Nader,n/a,9/19/2020,12/15/2020,Project Manager,10.15,35,13.70,522.9956553
+1584,Flatley and Sons,n/a,8/11/2020,11/6/2020,Administrative Assistant III,17.89,34,23.97,523.5290592
+1469,Weissnat and Sons,Commercial Banks,6/28/2020,9/23/2020,Information Systems Manager,12.45,24,15.44,524.0142022
+1228,Bailey-Cormier,Auto Parts:O.E.M.,3/30/2020,6/25/2020,Electrical Engineer,8.85,30,11.51,526.2088897
+1641,Roob LLC,Savings Institutions,9/1/2020,11/27/2020,Payment Adjustment Coordinator,29.48,21,35.67,526.8494435
+1561,"Senger, Tremblay and Kreiger",n/a,8/2/2020,10/28/2020,Product Engineer,7.8,26,9.83,527.2355709
+1870,Hamill Group,Electric Utilities: Central,11/20/2020,2/15/2021,Physical Therapy Assistant,22.3,22,27.21,527.8336033
+1687,Wisoky-Casper,Railroads,9/16/2020,12/13/2020,Staff Scientist,29.67,22,36.20,529.1707521
+1432,Schultz Group,Telecommunications Equipment,6/14/2020,9/10/2020,Pharmacist,8.66,26,10.91,529.6994501
+1905,Muller-Johnson,n/a,12/1/2020,2/27/2021,Web Designer III,10.72,27,13.61,529.8986924
+1939,Shanahan-Goldner,Beverages (Production/Distribution),12/13/2020,3/11/2021,Programmer IV,11.46,25,14.33,530.6966656
+1770,Tillman-Kuhn,Natural Gas Distribution,10/15/2020,1/11/2021,Junior Executive,17.94,28,22.96,532.4803007
+1413,McLaughlin Inc,Radio And Television Broadcasting And Communications Equipment,6/5/2020,9/1/2020,Help Desk Technician,11.28,24,13.99,532.5963813
+1392,Rutherford-Bechtelar,Property-Casualty Insurers,5/25/2020,8/21/2020,Internal Auditor,22.59,41,31.85,533.5732551
+1511,Bogan-Hartmann,Major Banks,7/15/2020,10/12/2020,Actuary,12.21,30,15.87,534.0077218
+1189,Gutmann and Sons,Packaged Foods,3/15/2020,6/12/2020,GIS Technical Architect,22.81,37,31.25,534.1943387
+1217,"Upton, Grant and Hamill",Auto Manufacturing,3/26/2020,6/23/2020,Actuary,19.79,26,24.94,535.5651816
+1118,"Paucek, Shanahan and Hessel",Home Furnishings,2/13/2020,5/12/2020,Dental Hygienist,14.87,38,20.52,535.6559697
+1396,"Glover, Hickle and Medhurst",Professional Services,5/27/2020,8/24/2020,Executive Secretary,18.23,39,25.34,535.8866477
+1744,Strosin-Prohaska,Integrated oil Companies,10/4/2020,1/1/2021,Database Administrator II,27.71,34,37.13,536.407635
+1915,"Mueller, Schamberger and Johnston",Packaged Foods,12/5/2020,3/4/2021,Geologist I,12.54,27,15.93,536.433665
+1358,Bartell and Sons,Major Pharmaceuticals,5/12/2020,8/9/2020,Senior Financial Analyst,14.22,28,18.20,536.8110031
+1402,Schumm Inc,Advertising,5/31/2020,8/28/2020,Assistant Professor,22.35,28,28.61,537.1953443
+1908,"Thompson, Jacobson and Nicolas",Semiconductors,12/2/2020,3/1/2021,Editor,23.23,44,33.45,537.5031077
+1084,Klocko and Sons,Major Pharmaceuticals,1/31/2020,4/29/2020,Assistant Manager,28.54,24,35.39,538.1093561
+1019,Moen Group,Hospital/Nursing Management,1/7/2020,4/5/2020,Staff Accountant II,10.48,37,14.36,539.4919791
+1634,Conroy LLC,Real Estate,8/29/2020,11/27/2020,Account Coordinator,25.99,24,32.23,540.2037401
+1943,"Okuneva, Harber and Littel",Military/Government/Technical,12/14/2020,3/14/2021,Research Associate,27.73,20,33.28,540.5383716
+1025,"Konopelski, Stroman and Kessler",n/a,1/9/2020,4/8/2020,Clinical Specialist,23.8,35,32.13,541.1428614
+1746,"Blick, Gusikowski and Torphy",Major Pharmaceuticals,10/7/2020,1/5/2021,Financial Analyst,21.53,32,28.42,541.2780427
+1035,Stiedemann-Ryan,Major Pharmaceuticals,1/12/2020,4/11/2020,Design Engineer,9.71,39,13.50,541.3354679
+1677,Haag Group,Major Chemicals,9/11/2020,12/10/2020,Software Test Engineer IV,14.39,31,18.85,541.8589691
+1309,"Vandervort, Reilly and Bins",Real Estate,4/25/2020,7/24/2020,Physical Therapy Assistant,27.66,40,38.72,542.622858
+1062,Koepp-Dooley,Commercial Banks,1/23/2020,4/22/2020,Help Desk Operator,17.16,44,24.71,543.1402846
+1515,"Lueilwitz, Abbott and Buckridge",Investment Bankers/Brokers/Service,7/18/2020,10/16/2020,General Manager,18,24,22.32,543.5442086
+1743,"Dibbert, Koelpin and Ruecker",n/a,10/3/2020,1/1/2021,Web Designer IV,16.3,45,23.64,544.4087726
+1824,"Rolfson, Reynolds and Dickinson",n/a,11/4/2020,2/2/2021,Web Designer II,8.84,30,11.49,544.9972208
+1037,Langworth and Sons,n/a,1/13/2020,4/13/2020,Research Associate,24.7,24,30.63,546.7907324
+1033,Kshlerin Inc,Biotechnology: Biological Products (No Diagnostic Substances),1/11/2020,4/11/2020,Computer Systems Analyst I,8.42,23,10.36,546.9146025
+1030,"Grady, Yundt and Lockman",Power Generation,1/10/2020,4/10/2020,Project Manager,29.29,25,36.61,547.1547218
+1973,Collier and Sons,Natural Gas Distribution,12/23/2020,3/24/2021,Computer Systems Analyst III,10.12,41,14.27,547.170163
+1787,Jakubowski-Ward,n/a,10/20/2020,1/19/2021,Project Manager,28.82,42,40.92,547.6314523
+1850,Eichmann-Bayer,Business Services,11/15/2020,2/14/2021,Sales Associate,20.68,33,27.50,547.7697387
+1578,Stark-Fahey,Environmental Services,8/10/2020,11/9/2020,Actuary,13.06,32,17.24,548.882292
+1631,"Rempel, Blanda and Jaskolski",Biotechnology: Laboratory Analytical Instruments,8/29/2020,11/28/2020,Account Executive,21.6,38,29.81,550.3109078
+1958,Zulauf Group,Oil Refining/Marketing,12/18/2020,3/19/2021,Internal Auditor,7.96,40,11.14,550.474627
+1713,Turner-Satterfield,EDP Services,9/24/2020,12/24/2020,Desktop Support Technician,18.04,44,25.98,550.8251587
+1486,Littel-Hammes,n/a,7/4/2020,10/3/2020,Human Resources Assistant III,15.56,41,21.94,551.0388056
+1160,"Gaylord, Schimmel and Kirlin",Agricultural Chemicals,3/3/2020,6/2/2020,Social Worker,13.68,44,19.70,551.5799882
+1108,Mayer Inc,Electric Utilities: Central,2/8/2020,5/9/2020,Staff Accountant I,20.42,23,25.12,551.7322351
+1416,Douglas-Gusikowski,Banks,6/7/2020,9/7/2020,Developer II,9.28,44,13.36,552.9429598
+1690,Corwin and Sons,Investment Managers,9/16/2020,12/17/2020,Accounting Assistant II,18.57,33,24.70,553.4481699
+1570,Kerluke LLC,n/a,8/7/2020,11/7/2020,Help Desk Technician,9.13,38,12.60,553.8823664
+1344,Reynolds-Donnelly,n/a,5/9/2020,8/9/2020,Teacher,23.27,36,31.65,554.5046354
+1954,Sanford and Sons,Computer Software: Prepackaged Software,12/18/2020,3/20/2021,Clinical Specialist,19.14,36,26.03,556.0683541
+1521,"Jaskolski, Schowalter and Heathcote",Biotechnology: Biological Products (No Diagnostic Substances),7/20/2020,10/20/2020,GIS Technical Architect,27.57,45,39.98,557.7290132
+1953,Weber-Hayes,n/a,12/17/2020,3/19/2021,Speech Pathologist,20.92,24,25.94,557.7646219
+1849,Donnelly Inc,n/a,11/15/2020,2/15/2021,Sales Associate,26.27,30,34.15,557.9601902
+1134,"Carter, Cremin and Lynch",Computer Software: Prepackaged Software,2/20/2020,5/23/2020,Assistant Manager,22.63,28,28.97,558.2746464
+1276,Romaguera and Sons,n/a,4/16/2020,7/18/2020,Web Designer III,21.78,32,28.75,558.5008544
+1979,Erdman Group,Trucking Freight/Courier Services,12/26/2020,3/29/2021,Teacher,21.63,29,27.90,558.7884936
+1913,Stoltenberg and Sons,Packaged Foods,12/4/2020,3/7/2021,Physical Therapy Assistant,26.83,33,35.68,559.42456
+1233,"Rogahn, Botsford and Maggio",Semiconductors,4/2/2020,7/4/2020,Project Manager,8.44,23,10.38,560.3397299
+1352,Mohr LLC,Major Pharmaceuticals,5/11/2020,8/12/2020,Help Desk Operator,11.14,29,14.37,560.8608136
+1574,Zboncak Group,Electric Utilities: Central,8/8/2020,11/9/2020,Director of Sales,22.04,30,28.65,562.2017709
+1006,O'Keefe LLC,Computer Communications Equipment,1/3/2020,4/5/2020,Web Developer IV,16.9,40,23.66,562.2318508
+1191,Krajcik and Sons,Investment Managers,3/15/2020,6/16/2020,Nurse Practicioner,23.59,37,32.32,563.3419251
+1095,Collins-Fay,Semiconductors,2/5/2020,5/9/2020,Staff Scientist,9.34,45,13.54,564.2687019
+1013,Steuber-Mann,Computer Software: Prepackaged Software,1/5/2020,4/8/2020,Professor,14.28,28,18.28,564.3075301
+1960,Gaylord Inc,Agricultural Chemicals,12/19/2020,3/23/2021,Account Representative IV,9.33,34,12.50,565.7893762
+1755,"Davis, Lebsack and Ward",Engineering & Construction,10/10/2020,1/12/2021,Accounting Assistant II,10.81,40,15.13,566.5135741
+1471,Kuvalis-Gleason,EDP Services,6/29/2020,10/1/2020,Project Manager,21.39,35,28.88,567.4515634
+1964,West-Kuhn,Major Pharmaceuticals,12/20/2020,3/24/2021,Administrative Assistant II,27.99,45,40.59,567.6415346
+1783,Rutherford and Sons,Major Pharmaceuticals,10/20/2020,1/22/2021,Research Associate,19.56,36,26.60,568.5315474
+1612,Boyle-Sipes,Oil & Gas Production,8/20/2020,11/22/2020,Community Outreach Specialist,24.12,21,29.19,568.8736124
+1128,Pagac Inc,n/a,2/15/2020,5/19/2020,Payment Adjustment Coordinator,29.37,34,39.36,569.6353402
+1027,Schaefer-Volkman,Real Estate Investment Trusts,1/9/2020,4/12/2020,Account Coordinator,18.02,22,21.98,569.6652208
+1458,"Leuschke, Conroy and Bayer",Real Estate Investment Trusts,6/25/2020,9/28/2020,Account Coordinator,18.94,24,23.49,571.4899008
+1201,Kub Inc,n/a,3/19/2020,6/22/2020,Software Consultant,18.11,44,26.08,571.8862124
+1586,"Douglas, Luettgen and Witting",Major Chemicals,8/12/2020,11/15/2020,Sales Representative,19.59,32,25.86,573.0398079
+1497,Hermiston Group,n/a,7/7/2020,10/10/2020,Administrative Assistant IV,27.56,37,37.76,573.7392117
+1141,"Mante, Wolf and Boyer",Investment Managers,2/23/2020,5/28/2020,GIS Technical Architect,26.79,44,38.58,574.7120235
+1869,Jast LLC,Life Insurance,11/20/2020,2/24/2021,Dental Hygienist,9.05,30,11.77,576.7251692
+1254,Lesch-Hintz,Diversified Electronic Products,4/7/2020,7/12/2020,Health Coach III,13.88,29,17.91,576.9133083
+1674,"Collier, Kilback and White",Professional Services,9/11/2020,12/16/2020,Administrative Assistant II,10.6,31,13.89,577.6614319
+1350,Jast Group,Containers/Packaging,5/11/2020,8/15/2020,Geologist IV,9.24,21,11.18,579.8426075
+1766,Klein-Schmitt,Oil & Gas Production,10/14/2020,1/18/2021,Structural Analysis Engineer,23.17,23,28.50,579.9838468
+1163,Cartwright LLC,Investment Managers,3/5/2020,6/9/2020,Senior Quality Engineer,13.35,29,17.22,581.2218406
+1425,"Fritsch, Terry and Lindgren",n/a,6/12/2020,9/16/2020,Recruiting Manager,11.19,30,14.55,581.3898147
+1120,Steuber-Paucek,Computer Manufacturing,2/13/2020,5/19/2020,Quality Engineer,14.09,45,20.43,581.7280761
+1761,"Jacobs, Schimmel and Spinka",Real Estate Investment Trusts,10/13/2020,1/18/2021,Administrative Officer,24.35,41,34.33,583.0563627
+1076,Luettgen LLC,Industrial Machinery/Components,1/27/2020,5/3/2020,Accounting Assistant IV,22.94,41,32.35,583.497931
+1853,McGlynn-Runolfsdottir,n/a,11/16/2020,2/21/2021,Paralegal,16.4,38,22.63,584.0193972
+1885,Volkman LLC,Oil & Gas Production,11/25/2020,3/2/2021,Recruiter,16.35,38,22.56,584.7654401
+1144,Jacobson Group,n/a,2/24/2020,5/31/2020,Senior Developer,19.34,40,27.08,584.9653408
+1966,Feil-Wilderman,Marine Transportation,12/21/2020,3/28/2021,Budget/Accounting Analyst II,8.3,44,11.95,585.0762085
+1603,Nolan-Bednar,n/a,8/18/2020,11/23/2020,Tax Accountant,7.99,40,11.19,585.1898578
+1138,"Homenick, Schoen and Schulist",Electrical Products,2/21/2020,5/28/2020,Editor,17.79,39,24.73,585.3911039
+1044,Trantow Group,Biotechnology: In Vitro & In Vivo Diagnostic Substances,1/15/2020,4/21/2020,Human Resources Manager,21.81,24,27.04,585.5437024
+1126,"Dare, Harvey and Pfannerstill",Oil & Gas Production,2/15/2020,5/22/2020,VP Accounting,22.08,21,26.72,586.0145207
+1285,Nicolas-Bernier,Major Banks,4/18/2020,7/24/2020,Software Test Engineer IV,28.5,24,35.34,587.5248186
+1576,Kling Group,n/a,8/9/2020,11/14/2020,Accountant II,16.91,22,20.63,587.7594539
+1565,Schamberger-Borer,Major Banks,8/5/2020,11/10/2020,General Manager,12.51,20,15.01,587.7714592
+1730,Fahey Inc,Restaurants,9/30/2020,1/6/2021,Administrative Assistant I,12.97,45,18.81,588.6437036
+1106,Torp Group,n/a,2/8/2020,5/16/2020,VP Marketing,14.16,34,18.97,589.4425806
+1989,Goodwin-Gleason,Restaurants,12/28/2020,4/5/2021,Accounting Assistant I,15.53,44,22.36,591.621309
+1589,"Kuhn, Steuber and Denesik",Aerospace,8/14/2020,11/20/2020,Help Desk Operator,20.66,22,25.21,592.1542112
+1135,"Kertzmann, Bauch and Bashirian",Environmental Services,2/20/2020,5/28/2020,Cost Accountant,23.32,43,33.35,592.6931676
+1077,"Thiel, Mayert and Kuhn",Multi-Sector Companies,1/27/2020,5/4/2020,Dental Hygienist,10.2,34,13.67,593.085527
+1070,"Renner, Bruen and Hintz",Power Generation,1/26/2020,5/4/2020,Systems Administrator IV,24.35,37,33.36,594.2214379
+1255,Jaskolski Inc,Oil Refining/Marketing,4/8/2020,7/16/2020,Director of Sales,25.98,44,37.41,594.4630956
+1764,"Rohan, Farrell and Balistreri",Business Services,10/14/2020,1/21/2021,Cost Accountant,9.21,22,11.24,596.0448249
+1206,White-Kshlerin,Business Services,3/20/2020,6/27/2020,Research Assistant I,29.77,26,37.51,596.4578521
+1609,"O'Kon, Crona and Murphy",Marine Transportation,8/19/2020,11/26/2020,Mechanical Systems Engineer,17.28,34,23.16,597.1186673
+1623,Ferry-Jacobs,Building Products,8/26/2020,12/3/2020,Nuclear Power Engineer,27.95,42,39.69,597.3010347
+1509,Kassulke-Yundt,Major Pharmaceuticals,7/15/2020,10/22/2020,Business Systems Development Analyst,25.66,39,35.67,598.5087783
+1353,"Douglas, Runolfsson and Conn",Diversified Commercial Services,5/11/2020,8/18/2020,Senior Financial Analyst,18.4,42,26.13,598.7652866
+1311,"Spencer, Sporer and Oberbrunner",n/a,4/25/2020,8/2/2020,Food Chemist,20.38,37,27.92,599.3605181
+1117,Goodwin-Jones,n/a,2/12/2020,5/22/2020,Human Resources Manager,16.39,23,20.16,601.2367378
+1693,"Mitchell, Ankunding and Altenwerth",n/a,9/18/2020,12/27/2020,Pharmacist,8.4,35,11.34,601.2399766
+1441,Braun Inc,n/a,6/17/2020,9/25/2020,Nuclear Power Engineer,17.5,35,23.63,602.1933059
+1115,"Will, Leannon and Rogahn",Life Insurance,2/12/2020,5/22/2020,Research Assistant IV,18.76,37,25.70,602.3943244
+1489,Mitchell LLC,n/a,7/4/2020,10/12/2020,Sales Representative,10.16,32,13.41,602.7625585
+1410,"Ebert, Herzog and Legros",Major Banks,6/5/2020,9/13/2020,Human Resources Manager,29.81,24,36.96,603.0428863
+1400,Upton-Marquardt,Restaurants,5/31/2020,9/8/2020,Physical Therapy Assistant,26.35,32,34.78,603.3089724
+1611,"Collier, Little and Langworth",Services-Misc. Amusement & Recreation,8/20/2020,11/28/2020,Actuary,21.37,26,26.93,603.6089213
+1996,Gislason-McCullough,n/a,12/29/2020,4/8/2021,Accounting Assistant II,18.05,40,25.27,603.9907655
+1851,Wiegand and Sons,n/a,11/16/2020,2/24/2021,Account Executive,12.08,26,15.22,604.4834384
+1211,Kassulke Inc,Electric Utilities: Central,3/22/2020,6/30/2020,Sales Associate,24.34,26,30.67,605.4043818
+1829,"Grady, Koelpin and Nader",n/a,11/5/2020,2/13/2021,Nuclear Power Engineer,8.27,29,10.67,605.978474
+1300,Kunze-Zieme,Major Chemicals,4/22/2020,8/1/2020,Social Worker,19.41,33,25.82,606.0488692
+1375,Mayert-Turner,Specialty Chemicals,5/18/2020,8/27/2020,Teacher,15.67,42,22.25,606.199494
+1039,Goodwin-Satterfield,n/a,1/13/2020,4/23/2020,Account Executive,13.35,22,16.29,607.7297811
+1091,Kunde Group,n/a,2/2/2020,5/13/2020,Librarian,15.39,27,19.55,608.9602922
+1267,Yundt-Satterfield,Television Services,4/13/2020,7/23/2020,Associate Professor,26.37,41,37.18,611.4818177
+1241,VonRueden-Schmitt,n/a,4/4/2020,7/14/2020,VP Product Management,9.27,24,11.49,611.8233668
+1421,"Hoeger, Nolan and Botsford",Major Pharmaceuticals,6/9/2020,9/18/2020,Office Assistant IV,12.61,38,17.40,611.976233
+1262,Klein-Cassin,Restaurants,4/11/2020,7/22/2020,Research Associate,7.84,43,11.21,612.3157379
+1081,"Christiansen, Vandervort and Schultz",Medical/Dental Instruments,1/30/2020,5/11/2020,Registered Nurse,27.1,40,37.94,612.4489012
+1018,Murphy-Little,Semiconductors,1/7/2020,4/18/2020,Account Coordinator,24.92,40,34.89,612.8308316
+1446,Dare-Lehner,Farming/Seeds/Milling,6/19/2020,9/29/2020,Research Assistant IV,26.98,43,38.58,614.0962526
+1530,"Jaskolski, Jacobson and Leuschke",Investment Bankers/Brokers/Service,7/22/2020,11/1/2020,Programmer IV,25.87,42,36.74,614.3834242
+1815,"Schmeler, Hackett and Schoen",Commercial Banks,10/30/2020,2/9/2021,Nurse Practicioner,20.12,25,25.15,616.5633189
+1745,"Adams, Dietrich and Abshire",n/a,10/5/2020,1/15/2021,Electrical Engineer,16.51,39,22.95,617.1679609
+1707,"Morissette, Parisian and Schuppe",n/a,9/23/2020,1/4/2021,Pharmacist,19.72,39,27.41,618.5322723
+1377,Heaney-Moen,n/a,5/20/2020,8/31/2020,Marketing Assistant,9.9,23,12.18,619.0558973
+1558,Pacocha Group,Property-Casualty Insurers,7/29/2020,11/9/2020,Administrative Officer,18.1,30,23.53,622.0688616
+1626,"Lockman, Bruen and Monahan",Semiconductors,8/27/2020,12/8/2020,Staff Accountant III,8.12,37,11.12,622.1905552
+1404,Deckow LLC,Oil & Gas Production,6/2/2020,9/13/2020,Assistant Media Planner,27.76,31,36.37,622.235009
+1448,"Torphy, Medhurst and Barton",Investment Managers,6/20/2020,10/1/2020,Compensation Analyst,25.83,28,33.06,622.841061
+1805,Harris-Littel,Major Pharmaceuticals,10/27/2020,2/8/2021,Assistant Media Planner,29.85,23,36.72,624.2928659
+1976,Schumm LLC,Major Chemicals,12/26/2020,4/9/2021,Environmental Specialist,10.92,34,14.63,624.4331374
+1476,"Kuhlman, Frami and Legros",n/a,7/1/2020,10/13/2020,Editor,10.35,27,13.14,628.2201207
+1122,Konopelski and Sons,Fluid Controls,2/13/2020,5/28/2020,Account Representative I,20.21,24,25.06,630.1723708
+1036,"Harvey, Mertz and Skiles",Business Services,1/12/2020,4/26/2020,Recruiting Manager,16.34,44,23.53,630.5334065
+1832,Hermiston-Quitzon,n/a,11/7/2020,2/20/2021,Senior Financial Analyst,17.49,45,25.36,630.8029301
+1956,Predovic-O'Reilly,Industrial Machinery/Components,12/18/2020,4/2/2021,Nurse Practicioner,9.7,20,11.64,631.0720796
+1177,Hartmann Inc,n/a,3/9/2020,6/22/2020,VP Marketing,9.97,20,11.96,632.63659
+1245,Rogahn and Sons,Business Services,4/5/2020,7/19/2020,Software Engineer IV,14.34,29,18.50,632.8149401
+1735,"Gleichner, Osinski and Casper",n/a,10/1/2020,1/14/2021,Database Administrator IV,13.81,32,18.23,633.4298954
+1151,"Runte, Pfannerstill and Walter",n/a,2/26/2020,6/10/2020,Engineer IV,13.06,38,18.02,633.5648935
+1215,Smith LLC,Real Estate Investment Trusts,3/24/2020,7/7/2020,Accounting Assistant III,13.89,31,18.20,635.1842857
+1988,Braun-McKenzie,n/a,12/28/2020,4/12/2021,Help Desk Operator,11.51,23,14.16,635.535407
+1683,Romaguera Inc,Oil & Gas Production,9/14/2020,12/29/2020,Desktop Support Technician,25.9,43,37.04,636.8242867
+1414,Nader-Satterfield,Major Chemicals,6/6/2020,9/20/2020,VP Sales,15.3,20,18.36,637.169056
+1297,"Leffler, Orn and Gibson",n/a,4/22/2020,8/6/2020,Financial Analyst,27.34,32,36.09,637.4608364
+1621,Gislason-Hermann,Oil Refining/Marketing,8/25/2020,12/9/2020,Librarian,25.2,34,33.77,637.8808346
+1205,King-Ryan,Oil & Gas Production,3/20/2020,7/4/2020,Biostatistician IV,23.03,42,32.70,638.0143766
+1333,Christiansen-Donnelly,Oil & Gas Production,5/5/2020,8/19/2020,Assistant Media Planner,12.75,25,15.94,639.6055089
+1978,Schuster LLC,Telecommunications Equipment,12/26/2020,4/11/2021,Office Assistant IV,19.06,44,27.45,639.9802353
+1671,Tremblay and Sons,Industrial Machinery/Components,9/11/2020,12/26/2020,Database Administrator I,18.04,23,22.19,641.7138792
+1041,"Morissette, Murray and Armstrong",Semiconductors,1/14/2020,4/30/2020,Quality Engineer,14.02,27,17.81,642.2136778
+1462,"Marquardt, Nienow and Dibbert",Biotechnology: Biological Products (No Diagnostic Substances),6/26/2020,10/11/2020,Human Resources Assistant III,16.35,33,21.75,642.643993
+1696,Hills-Koelpin,Business Services,9/19/2020,1/4/2021,VP Quality Control,8.96,39,12.45,642.770866
+1227,Strosin-Oberbrunner,Property-Casualty Insurers,3/30/2020,7/15/2020,Social Worker,8.32,20,9.98,642.80814
+1164,Bogisich-O'Kon,Investment Managers,3/5/2020,6/20/2020,Project Manager,22.53,37,30.87,643.4420132
+1867,McClure-Legros,Biotechnology: Biological Products (No Diagnostic Substances),11/19/2020,3/6/2021,Registered Nurse,28.69,43,41.03,644.7866899
+1734,Beahan and Sons,n/a,10/1/2020,1/16/2021,Marketing Assistant,23.25,31,30.46,645.0407111
+1356,"Brekke, Zieme and Wiegand",Major Banks,5/12/2020,8/27/2020,Administrative Officer,13.82,33,18.38,645.7060186
+1237,D'Amore-Nitzsche,EDP Services,4/3/2020,7/19/2020,Nurse,22.09,25,27.61,645.8025049
+1331,Gottlieb-Hudson,Major Banks,5/3/2020,8/19/2020,Senior Developer,22.56,32,29.78,648.3012277
+1232,Ward LLC,Television Services,3/31/2020,7/17/2020,Senior Financial Analyst,20.92,26,26.36,648.4545623
+1057,Wunsch LLC,Biotechnology: Commercial Physical & Biological Resarch,1/19/2020,5/6/2020,Account Representative II,16.78,38,23.16,648.5734119
+1664,Bogan-Kreiger,Major Banks,9/8/2020,12/25/2020,Software Engineer III,15.95,26,20.10,648.5762341
+1463,Hamill Inc,Building Materials,6/27/2020,10/13/2020,Junior Executive,12.52,43,17.90,648.7049866
+1840,Waters-Schaefer,Industrial Machinery/Components,11/11/2020,2/27/2021,Accountant II,28.7,34,38.46,648.7632196
+1110,Hoppe-Graham,Finance: Consumer Services,2/10/2020,5/28/2020,Accountant I,25.64,42,36.41,649.4137045
+1085,Hoeger and Sons,n/a,2/1/2020,5/19/2020,VP Marketing,26.26,35,35.45,650.4035014
+1872,Hilll and Sons,n/a,11/20/2020,3/8/2021,VP Accounting,13.32,21,16.12,650.5512868
+1949,"Glover, Larkin and Zemlak",Telecommunications Equipment,12/16/2020,4/3/2021,Assistant Media Planner,18.45,29,23.80,651.0523187
+1681,Williamson-Will,n/a,9/14/2020,12/31/2020,Payment Adjustment Coordinator,26.21,41,36.96,653.2889952
+1483,"Shields, Ernser and Denesik",Major Pharmaceuticals,7/3/2020,10/20/2020,Quality Engineer,19.28,23,23.71,654.8222676
+1888,Rodriguez and Sons,n/a,11/26/2020,3/15/2021,Product Engineer,11.36,20,13.63,656.0547904
+1374,"Smitham, Kautzer and Russel",n/a,5/17/2020,9/3/2020,Web Designer IV,7.49,34,10.04,656.120671
+1419,Schultz LLC,EDP Services,6/8/2020,9/25/2020,Statistician I,26.83,26,33.81,656.4574988
+1602,Sanford Inc,Medical/Dental Instruments,8/18/2020,12/5/2020,Community Outreach Specialist,9.4,30,12.22,656.4835876
+1415,"Bartell, McKenzie and Carter",n/a,6/6/2020,9/23/2020,Account Representative II,11.13,26,14.02,656.6958772
+1881,Walsh Group,Industrial Machinery/Components,11/25/2020,3/14/2021,Operator,10.34,37,14.17,656.7372904
+1230,Lind-Hackett,Electric Utilities: Central,3/31/2020,7/18/2020,Database Administrator IV,29.25,37,40.07,657.1344155
+1020,"Lindgren, McClure and Greenholt",Marine Transportation,1/7/2020,4/25/2020,VP Product Management,17.72,28,22.68,657.1489619
+1922,Mante Group,Medical Specialities,12/7/2020,3/26/2021,Programmer IV,8.48,36,11.53,657.6444171
+1901,Ritchie-Goodwin,Telecommunications Equipment,11/30/2020,3/19/2021,Recruiter,11.47,43,16.40,658.1281327
+1178,Doyle and Sons,n/a,3/9/2020,6/26/2020,Information Systems Manager,17.99,20,21.59,658.1770048
+1731,Weissnat and Sons,n/a,9/30/2020,1/17/2021,Programmer I,28.12,38,38.81,658.2845047
+1403,Botsford-Nitzsche,Steel/Iron Ore,5/31/2020,9/17/2020,Operator,24.66,29,31.81,659.1588322
+1598,Lesch LLC,Telecommunications Equipment,8/16/2020,12/3/2020,Account Coordinator,17.31,23,21.29,659.2585358
+1550,DuBuque-Kuphal,n/a,7/27/2020,11/13/2020,Desktop Support Technician,24.1,37,33.02,659.3029384
+1437,West-Cassin,Metal Fabrications,6/16/2020,10/3/2020,Design Engineer,13.15,23,16.17,659.8553881

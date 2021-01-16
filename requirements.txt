@@ -9,9 +9,13 @@ Jinja2
 Markdown
 MarkupSafe
 micawber
+mongoengine
+numpy
+pandas
 peewee
 Pygments
 PyYAML
 setuptools
 soupsieve
 Werkzeug
+
