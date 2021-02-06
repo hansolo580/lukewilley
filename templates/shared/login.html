@@ -4,11 +4,11 @@
 
 {% block main_content %}
     <header class="masthead">
-        <div class="container d-flex h-100 align-items-center">
+        <div class="container d-flex h-100 align-items-lg-center">
             <form action="{{ url_for('capstone.display_login', next=url_for('home.index')) }}" class="form-horizontal"
                   method="post">
                 <div class="form-group">
-                    <label for="password" class="col-sm-2 control-label">Admin Login</label>
+                    <label for="password" class="col-sm-2 control-label">Admin Log In</label>
                     <div class="col-sm-10">
                         <input class="form-control" id="password" name="password" type="password">
                     </div>

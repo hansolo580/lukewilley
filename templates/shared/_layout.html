@@ -62,7 +62,14 @@
                 {% block extra_header %}{% endblock %}
                 {% if session.logged_in %}
                     <li>
-                        <a class="nav-link js-scroll-trigger" href="{{url_for('capstone.logout')}}" method="post">Logout</a>
+                        <form action="{{ url_for('capstone.logout') }}" class="form-inline" method="post">
+                        <button formaction="{{ url_for('capstone.logout') }}" class="nav-link js-scroll-trigger bg-transparent border-0" type="submit">Log out</button>
+                        </form>
+                    </li>
+                {% endif %}
+                {% if not session.logged_in %}
+                    <li>
+                        <a class="nav-link js-scroll-trigger" href="{{url_for('capstone.display_login')}}" method="post">Log In</a>
                     </li>
                 {% endif %}
             </ul>
