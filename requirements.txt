@@ -5,6 +5,7 @@ Flask-FlatPages
 Frozen-Flask
 gunicorn
 itsdangerous
+ipywidgets
 Jinja2
 Markdown
 MarkupSafe
