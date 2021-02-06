@@ -16,9 +16,10 @@ def main():
 
 
 def register_blueprints():
-    from views import home_views, blog_views
+    from views import home_views, blog_views, capstone_views
 
     app.register_blueprint(home_views.blueprint)
+    app.register_blueprint(capstone_views.blueprint)
     #app.register_blueprint(blog_views.blueprint)
 # TODO: Fix blog?
 

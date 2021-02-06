@@ -57,12 +57,12 @@
                     <a class="nav-link js-scroll-trigger" href="/#signup">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="/blog">Blog</a>
+                    <a class="nav-link js-scroll-trigger" href="/capstone">Capstone</a>
                 </li>
                 {% block extra_header %}{% endblock %}
                 {% if session.logged_in %}
                     <li>
-                        <a class="nav-link js-scroll-trigger" href="{{url_for('blog.logout')}}" method="post">Logout</a>
+                        <a class="nav-link js-scroll-trigger" href="{{url_for('capstone.logout')}}" method="post">Logout</a>
                     </li>
                 {% endif %}
             </ul>

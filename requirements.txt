@@ -11,6 +11,7 @@ Markdown
 MarkupSafe
 micawber
 mongoengine
+nbinteract
 numpy
 pandas
 peewee

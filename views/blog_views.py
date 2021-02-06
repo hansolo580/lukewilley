@@ -15,7 +15,7 @@ blueprint = flask.Blueprint('blog', __name__, template_folder='templates')
 
 
 @blueprint.route('/blog')
-def index():
+def blog():
     search_query = request.args.get('q')
     if search_query:
         query = Entry.search(search_query)
@@ -27,7 +27,7 @@ def index():
 
 @blueprint.route('/blog/post')
 @response(template_file='blog/post.html')
-def testpost():
+def post():
     return {}
 
 
@@ -45,6 +45,13 @@ def login_required(fn):
         return redirect(url_for('blog/login', next=request.path))
 
     return inner
+
+
+@blueprint.route('/staffingdata')
+@login_required
+@response(template_file='capstone/staffingdata.html')
+def staffingdata():
+    return {}
 
 
 @blueprint.route('/drafts/')
