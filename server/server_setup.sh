@@ -53,7 +53,7 @@ cd /apps
 git clone https://github.com/hansolo580/lukewilley
 
 # Setup the web app:
-cd cd /apps/lukewilley
+cd /apps/lukewilley
 pip install -r requirements.txt
 
 # Copy and enable the daemon
