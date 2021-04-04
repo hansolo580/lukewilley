@@ -1,15 +1,12 @@
-import flask
-from config import DATABASE
-from app import login
-from infrastructure.blog import Entry
-from infrastructure.view_modifiers import response
-
 import functools
 
-from flask import (Flask, abort, flash, Markup, redirect, render_template,
-                   request, Response, session, url_for, app)
+import flask
+from flask import (flash, redirect, render_template,
+                   request, session, url_for)
+from playhouse.flask_utils import get_object_or_404, object_list
 
-from playhouse.flask_utils import FlaskDB, get_object_or_404, object_list
+from infrastructure.blog import Entry
+from infrastructure.view_modifiers import response
 
 blueprint = flask.Blueprint('blog', __name__, template_folder='templates')
 
@@ -33,7 +30,7 @@ def post():
 
 @blueprint.route('/blog/post/<title>')
 @response(template_file='blog/post.html')
-def post():
+def post_title():
     return {}
 
 
@@ -45,13 +42,6 @@ def login_required(fn):
         return redirect(url_for('blog/login', next=request.path))
 
     return inner
-
-
-@blueprint.route('/staffingdata')
-@login_required
-@response(template_file='capstone/staffingdata.html')
-def staffingdata():
-    return {}
 
 
 @blueprint.route('/drafts/')
@@ -113,14 +103,11 @@ def edit(slug):
     return render_template('blog/edit.html', entry=entry)
 
 
-# I think it's visiting the login and login result out of order
-# https://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
-
-
 @blueprint.route('/login/', methods=['GET', 'POST'])
 def display_login():
     next_url = request.args.get('next') or request.form.get('next')
     loginstate = False
+    from app import login
     loginstate = login()
     print(loginstate)
     if loginstate == True:
@@ -137,5 +124,6 @@ def logout():
         session.clear()
         return redirect(url_for('home.index'))
     return render_template('blog/logout.html')
+
 
 # TODO: This: https://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/

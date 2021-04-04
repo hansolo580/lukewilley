@@ -5,7 +5,7 @@
 {% block main_content %}
     <header class="masthead">
         <div class="container d-flex h-100 align-items-center">
-            <form action="{{ url_for('blog.display_login', next=url_for('blog.index')) }}" class="form-horizontal"
+            <form action="{{ url_for('blog.display_login', next=url_for('blog.blog')) }}" class="form-horizontal"
                   method="post">
                 <div class="form-group">
                     <label for="password" class="col-sm-2 control-label">Admin Login</label>

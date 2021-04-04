@@ -20,8 +20,9 @@ def register_blueprints():
 
     app.register_blueprint(home_views.blueprint)
     app.register_blueprint(capstone_views.blueprint)
-    #app.register_blueprint(blog_views.blueprint)
+    app.register_blueprint(blog_views.blueprint)
 # TODO: Fix blog?
+
 
 def login():
     if request.method == 'POST' and request.form.get('password'):

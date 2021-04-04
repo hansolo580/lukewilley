@@ -59,17 +59,20 @@
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="/capstone">Capstone</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="/blog">Blog</a>
+                </li>
                 {% block extra_header %}{% endblock %}
                 {% if session.logged_in %}
                     <li>
-                        <form action="{{ url_for('capstone.logout') }}" class="form-inline" method="post">
-                        <button formaction="{{ url_for('capstone.logout') }}" class="nav-link js-scroll-trigger bg-transparent border-0" type="submit">Log out</button>
+                        <form action="{{ url_for('blog.logout') }}" class="form-inline" method="post">
+                        <button formaction="{{ url_for('blog.logout') }}" class="nav-link js-scroll-trigger bg-transparent border-0" type="submit">Log out</button>
                         </form>
                     </li>
                 {% endif %}
                 {% if not session.logged_in %}
                     <li>
-                        <a class="nav-link js-scroll-trigger" href="{{url_for('capstone.display_login')}}" method="post">Log In</a>
+                        <a class="nav-link js-scroll-trigger" href="{{url_for('blog.display_login')}}" method="post">Log In</a>
                     </li>
                 {% endif %}
             </ul>

@@ -1,7 +1,7 @@
 import flask
 import functools
 
-from app import login
+#from app import login
 from infrastructure.view_modifiers import response
 
 from flask import (session, redirect, url_for, render_template, request)
@@ -9,7 +9,7 @@ from flask import (session, redirect, url_for, render_template, request)
 blueprint = flask.Blueprint('capstone', __name__, template_folder='templates')
 
 
-@blueprint.route('/login/', methods=['GET', 'POST'])
+"""@blueprint.route('/login/', methods=['GET', 'POST'])
 def display_login():
     next_url = request.args.get('next') or request.form.get('next')
     loginstate = False
@@ -20,7 +20,7 @@ def display_login():
         return redirect(next_url or url_for('index'))
     else:
         print('login status: ', loginstate)
-        return render_template('shared/login.html', next_url=next_url)
+        return render_template('shared/login.html', next_url=next_url)"""
 
 
 def login_required(fn):
@@ -40,9 +40,9 @@ def index():
     return {}
 
 
-@blueprint.route('/logout/', methods=['GET', 'POST'])
+"""@blueprint.route('/logout/', methods=['GET', 'POST'])
 def logout():
     if request.method == 'POST':
         session.clear()
         return redirect(url_for('home.index'))
-    return render_template('shared/logout.html')
+    return render_template('shared/logout.html')"""
