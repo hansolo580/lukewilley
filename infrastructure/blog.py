@@ -11,7 +11,7 @@ from markdown.extensions.codehilite import CodeHiliteExtension
 from markdown.extensions.extra import ExtraExtension
 from micawber import bootstrap_basic, parse_html
 from micawber.cache import Cache as OEmbedCache
-from playhouse.flask_utils import FlaskDB, get_object_or_404, object_list
+from playhouse.flask_utils import FlaskDB
 from playhouse.sqlite_ext import *
 
 
