@@ -28,7 +28,7 @@ def login_required(fn):
     def inner(*args, **kwargs):
         if session.get('logged_in'):
             return fn(*args, **kwargs)
-        return redirect(url_for('capstone.display_login', next=request.path))
+        return redirect(url_for('blog.display_login', next=request.path))
 
     return inner
 
