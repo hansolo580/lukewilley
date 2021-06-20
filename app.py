@@ -7,12 +7,13 @@ from flask_simplemde import SimpleMDE
 
 app = Flask(__name__)
 app.config.from_pyfile('config.py')
-SimpleMDE(app)
+
 
 
 def main():
     register_blueprints()
     blogmain()
+    SimpleMDE(app)
     app.run(debug=True)
 
 
