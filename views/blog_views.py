@@ -125,10 +125,6 @@ def logout():
         return redirect(url_for('home.index'))
     return render_template('blog/logout.html')
 
-@blueprint.route('/newpost/', methods=['GET', 'POST'])
-def new_markup_post():
-    return render_template('blog/newmarkuppost.html')
-
 
 
 # TODO: This: https://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
