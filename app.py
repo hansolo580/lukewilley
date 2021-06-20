@@ -3,10 +3,11 @@ from infrastructure.blog import blogmain
 import urllib
 from flask import (Flask, abort, flash, Markup, redirect, render_template,
                    request, Response, session, url_for)
-
+from flask_simplemde import SimpleMDE
 
 app = Flask(__name__)
 app.config.from_pyfile('config.py')
+SimpleMDE(app)
 
 
 def main():
@@ -21,6 +22,8 @@ def register_blueprints():
     app.register_blueprint(home_views.blueprint)
     app.register_blueprint(capstone_views.blueprint)
     app.register_blueprint(blog_views.blueprint)
+
+
 # TODO: Fix blog?
 
 
@@ -40,7 +43,6 @@ def login():
             return loginstate
 
 
-
 @app.template_filter('clean_querystring')
 def clean_querystring(request_args, *keys_to_remove, **new_values):
     querystring = dict((key, value) for key, value in request_args.items())
@@ -48,6 +50,7 @@ def clean_querystring(request_args, *keys_to_remove, **new_values):
         querystring.pop(key, None)
     querystring.update(new_values)
     return urllib.urlencode(querystring)
+
 
 """
 @app.errorhandler(404)

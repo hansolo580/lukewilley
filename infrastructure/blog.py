@@ -15,8 +15,10 @@ from playhouse.flask_utils import FlaskDB
 from playhouse.sqlite_ext import *
 
 
+
 app = Flask(__name__)
 app.config.from_object('config')
+
 
 flask_db = FlaskDB(app)
 database = flask_db.database
