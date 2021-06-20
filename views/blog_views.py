@@ -11,6 +11,7 @@ from infrastructure.view_modifiers import response
 blueprint = flask.Blueprint('blog', __name__, template_folder='templates')
 
 
+
 @blueprint.route('/blog')
 def blog():
     search_query = request.args.get('q')
@@ -124,7 +125,3 @@ def logout():
         session.clear()
         return redirect(url_for('home.index'))
     return render_template('blog/logout.html')
-
-@blueprint.route('/newpost/', methods=['GET', 'POST'])
-def new_markup_post():
-    return render_template('blog/newmarkuppost.html')

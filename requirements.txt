@@ -20,4 +20,4 @@ PyYAML
 setuptools
 soupsieve
 Werkzeug
-
+Flask-SimpleMDE
